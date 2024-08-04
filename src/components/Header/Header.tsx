@@ -11,7 +11,7 @@ const Header = () => {
     <AppBar position='static'>
       <ToolBarVelo>
         <Typography variant='h5'>
-          Travel Advisor
+        Find a bike
         </Typography>
         <Box display='felx'>
           {/* <Typography variant='h6' className={classes.title}>
