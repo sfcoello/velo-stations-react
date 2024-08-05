@@ -41,7 +41,7 @@ const Map: React.FC = () => {
   return (
     <MapContainerSyled>
       <GoogleMapReact
-        bootstrapURLKeys={{ key: 'AIzaSyCusgbvbtg8uyhWI_VkDKjXlcvxmteB_bA' }}
+        bootstrapURLKeys={{ key: '' }}
         defaultCenter={coordinates}
         defaultZoom={12}
         margin={[50, 50, 50, 50]}
