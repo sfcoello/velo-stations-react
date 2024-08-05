@@ -1,9 +1,8 @@
-import { alpha, styled } from "@mui/material";
+import { alpha, styled, Typography } from "@mui/material";
 import InputBase from '@mui/material/InputBase';
 import Toolbar from "@mui/material/Toolbar";
-import { Title } from "@mui/icons-material";
 
-export const TitleVelo = styled(Title)(({ theme }) => ({
+export const TitleVelo = styled(Typography)(({ theme }) => ({
     display: 'none',
     [theme.breakpoints.up('sm')]: {
         display: 'block',

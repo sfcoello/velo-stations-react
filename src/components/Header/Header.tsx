@@ -2,7 +2,7 @@ import React from 'react'
 import { Autocomplete } from '@react-google-maps/api'
 import {AppBar, Typography, Box } from '@mui/material'
 import SearchIcon from '@mui/icons-material/Search';
-import {Search, SearchIconWrapper, StyledInputBase, ToolBarVelo} from './Styles'
+import {Search, SearchIconWrapper, StyledInputBase, ToolBarVelo, TitleVelo} from './Styles'
 
 
 
@@ -14,10 +14,10 @@ const Header = () => {
         Find a bike
         </Typography>
         <Box display='felx'>
-          {/* <Typography variant='h6' className={classes.title}>
+           {/* <TitleVelo>
             Explore new stations
-          </Typography> */}
-          
+          </TitleVelo> 
+           */}
           <Search>
             <SearchIconWrapper>
               <SearchIcon />

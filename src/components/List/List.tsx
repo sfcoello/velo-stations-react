@@ -10,7 +10,7 @@ const List : React.FC = () => {
 
   return (
     <Container>
-    <Typography variant="h4">Stations</Typography>
+    <Typography variant="h5">Stations</Typography>
     <ListStyled>
       {stations?.map((station, i) => (
         <Grid item key={i} xs={12}>

@@ -13,10 +13,10 @@ interface StationsProps {
 const StationsDetails: React.FC<StationsProps> = ({ station }) => {
   
   return (
-    <Card elevation={6}>
+    <Card elevation={4}>
       <CardMedia style={{ height: 100 }} />
       <CardContent>
-        <Typography gutterBottom variant='h5'>{station.extra.address}</Typography>
+        <Typography gutterBottom variant='h6'>{station.extra.address}</Typography>
         <Typography variant='subtitle1'>{station.name}</Typography>
         <Box display='flex' justifyContent='space-between'>
         <PedalBikeOutlinedIcon></PedalBikeOutlinedIcon>
