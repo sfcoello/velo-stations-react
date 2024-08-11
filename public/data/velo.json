@@ -84,7 +84,3016 @@
         "timestamp": "2024-08-04T18:54:27.141000Z"
       },
  
-  
+      {
+        "empty_slots": 21,
+        "extra": {
+          "address": "Rubenslei – Louiza – Marialei ",
+          "status": "OPN",
+          "uid": 96
+        },
+        "free_bikes": 3,
+        "id": "27190c4af0eb870f1494042bf702194a",
+        "latitude": 51.21328,
+        "longitude": 4.41311,
+        "name": "096- Stadspark",
+        "timestamp": "2024-08-04T18:54:27.111000Z"
+      },
+      {
+        "empty_slots": 15,
+        "extra": {
+          "address": "Cuperusstraat ro Lange Leemstraat",
+          "status": "OPN",
+          "uid": 97
+        },
+        "free_bikes": 4,
+        "id": "263cf7673067fa157a45a25347fd11cb",
+        "latitude": 51.20278,
+        "longitude": 4.42883,
+        "name": "097- Cuperus",
+        "timestamp": "2024-08-04T18:54:27.117000Z"
+      },
+      {
+        "empty_slots": 6,
+        "extra": {
+          "address": "Generaal Lemanstraat - Karel Oomsstraat",
+          "status": "OPN",
+          "uid": 99
+        },
+        "free_bikes": 16,
+        "id": "18819acb33f24f6af898b365f8f93a4c",
+        "latitude": 51.1973,
+        "longitude": 4.41048,
+        "name": "099- Generaal Leman",
+        "timestamp": "2024-08-04T18:54:27.124000Z"
+      },
+      {
+        "empty_slots": 27,
+        "extra": {
+          "address": "Frans Van Hombeeckplein 25",
+          "status": "OPN",
+          "uid": 100
+        },
+        "free_bikes": 6,
+        "id": "c175ce102f37383ce3bb235973c136f5",
+        "latitude": 51.19485,
+        "longitude": 4.4166,
+        "name": "100- Van Hombeeckplein",
+        "timestamp": "2024-08-04T18:54:27.137000Z"
+      },
+      {
+        "empty_slots": 22,
+        "extra": {
+          "address": "Duinstraat",
+          "status": "OPN",
+          "uid": 102
+        },
+        "free_bikes": 13,
+        "id": "c405b98c057ed1960a7ddff1863f767f",
+        "latitude": 51.22246,
+        "longitude": 4.43026,
+        "name": "102- Duinstraat",
+        "timestamp": "2024-08-04T18:54:27.146000Z"
+      },
+      {
+        "empty_slots": 7,
+        "extra": {
+          "address": "Provinciestraat - Mercatorstraat",
+          "status": "OPN",
+          "uid": 104
+        },
+        "free_bikes": 9,
+        "id": "18e6b31c435ecfdbc8257f6f5a461ba8",
+        "latitude": 51.20821,
+        "longitude": 4.42429,
+        "name": "104- Mercator",
+        "timestamp": "2024-08-04T18:54:27.164000Z"
+      },
+      {
+        "empty_slots": 29,
+        "extra": {
+          "address": "Lange van Ruusbroekstraat",
+          "status": "OPN",
+          "uid": 105
+        },
+        "free_bikes": 3,
+        "id": "289bfc9f0e8bd5eaf4a89e43498b1847",
+        "latitude": 51.20902,
+        "longitude": 4.43157,
+        "name": "105- Plantin en Moretus",
+        "timestamp": "2024-08-04T18:54:27.176000Z"
+      },
+      {
+        "empty_slots": 8,
+        "extra": {
+          "address": "Draakplaats",
+          "status": "OPN",
+          "uid": 106
+        },
+        "free_bikes": 23,
+        "id": "3fefc4bec572452d1876fd4e8d8d31f6",
+        "latitude": 51.20561,
+        "longitude": 4.43221,
+        "name": "106- Draakplaats",
+        "timestamp": "2024-08-04T18:54:27.189000Z"
+      },
+      {
+        "empty_slots": 16,
+        "extra": {
+          "address": "Moorkensplein ro n° 33A",
+          "status": "OPN",
+          "uid": 107
+        },
+        "free_bikes": 19,
+        "id": "b8cfce3214108318e78549397081fd76",
+        "latitude": 51.21338,
+        "longitude": 4.43381,
+        "name": "107- Moorkensplein",
+        "timestamp": "2024-08-04T18:54:27.192000Z"
+      },
+      {
+        "empty_slots": 14,
+        "extra": {
+          "address": "Delaraystraat ro n° 13",
+          "status": "OPN",
+          "uid": 108
+        },
+        "free_bikes": 10,
+        "id": "de9d3ff75aceaae64e269e73e6a8a11e",
+        "latitude": 51.21602,
+        "longitude": 4.43997,
+        "name": "108- Krugerpark",
+        "timestamp": "2024-08-04T18:54:27.203000Z"
+      },
+      {
+        "empty_slots": 5,
+        "extra": {
+          "address": "Kerkstraat n° 58",
+          "status": "OPN",
+          "uid": 109
+        },
+        "free_bikes": 26,
+        "id": "7a3b23c26be3dd38043c36f83de62edc",
+        "latitude": 51.21858,
+        "longitude": 4.43051,
+        "name": "109- Kerkstraat",
+        "timestamp": "2024-08-04T18:54:27.207000Z"
+      },
+      {
+        "empty_slots": 19,
+        "extra": {
+          "address": "Dageraadplaats",
+          "status": "OPN",
+          "uid": 110
+        },
+        "free_bikes": 17,
+        "id": "26b2dc2b0eab6d16ca5b1a24df4ebf53",
+        "latitude": 51.20694,
+        "longitude": 4.4301,
+        "name": "110- Dageraadplaats",
+        "timestamp": "2024-08-04T18:54:27.212000Z"
+      },
+      {
+        "empty_slots": 6,
+        "extra": {
+          "address": "Plantin en Moretuslei",
+          "status": "OPN",
+          "uid": 111
+        },
+        "free_bikes": 22,
+        "id": "8813b4490c2b24778e4955667dbc0def",
+        "latitude": 51.21018,
+        "longitude": 4.42776,
+        "name": "111- Van Der Meyden",
+        "timestamp": "2024-08-04T18:54:27.225000Z"
+      },
+      {
+        "empty_slots": 11,
+        "extra": {
+          "address": "Uitbreidingstraat",
+          "status": "OPN",
+          "uid": 112
+        },
+        "free_bikes": 24,
+        "id": "0223de16b14b05373cdd9cdc1d5c2687",
+        "latitude": 51.20345,
+        "longitude": 4.43684,
+        "name": "112- Pretoriastraat",
+        "timestamp": "2024-08-04T18:54:27.237000Z"
+      },
+      {
+        "empty_slots": 12,
+        "extra": {
+          "address": "Vercammenstraat - Helmstraat",
+          "status": "OPN",
+          "uid": 113
+        },
+        "free_bikes": 13,
+        "id": "648365195aa1700e3b8066816842e125",
+        "latitude": 51.21861,
+        "longitude": 4.43862,
+        "name": "113- Helmstraat",
+        "timestamp": "2024-08-04T18:54:27.242000Z"
+      },
+      {
+        "empty_slots": 4,
+        "extra": {
+          "address": "Pesthofstraat ro n° 5",
+          "status": "OPN",
+          "uid": 114
+        },
+        "free_bikes": 16,
+        "id": "91d61d90f024535e8012c2f51d787f72",
+        "latitude": 51.22199,
+        "longitude": 4.43384,
+        "name": "114- ZNA Stuivenberg",
+        "timestamp": "2024-08-04T18:54:27.249000Z"
+      },
+      {
+        "empty_slots": 2,
+        "extra": {
+          "address": "Sint Elisabethstraat - Greinstraat",
+          "status": "OPN",
+          "uid": 115
+        },
+        "free_bikes": 18,
+        "id": "bc77d05d3423ec98b782d8b87b522b72",
+        "latitude": 51.22275,
+        "longitude": 4.42418,
+        "name": "115- Metro Elisabeth",
+        "timestamp": "2024-08-04T18:54:27.260000Z"
+      },
+      {
+        "empty_slots": 8,
+        "extra": {
+          "address": "Sint Jansplein ro n° 17",
+          "status": "OPN",
+          "uid": 117
+        },
+        "free_bikes": 21,
+        "id": "ea2a668b6df790181e1f8c33da23cd4f",
+        "latitude": 51.22542,
+        "longitude": 4.4184,
+        "name": "117- Sint Jansplein",
+        "timestamp": "2024-08-04T18:54:27.273000Z"
+      },
+      {
+        "empty_slots": 9,
+        "extra": {
+          "address": "Trapstraat n° 10",
+          "status": "OPN",
+          "uid": 118
+        },
+        "free_bikes": 12,
+        "id": "a7800f88a37a4716cbeba7b664bf1305",
+        "latitude": 51.22714,
+        "longitude": 4.42225,
+        "name": "118- Dambrugge",
+        "timestamp": "2024-08-04T18:54:27.284000Z"
+      },
+      {
+        "empty_slots": 16,
+        "extra": {
+          "address": "Provinciestraat (plein)",
+          "status": "OPN",
+          "uid": 119
+        },
+        "free_bikes": 8,
+        "id": "9dbc4eb321019e292c6e8aea07af2d90",
+        "latitude": 51.21537,
+        "longitude": 4.42537,
+        "name": "119- Ploeg",
+        "timestamp": "2024-08-04T18:54:27.300000Z"
+      },
+      {
+        "empty_slots": 1,
+        "extra": {
+          "address": "Schijnpoortweg ",
+          "status": "OPN",
+          "uid": 120
+        },
+        "free_bikes": 23,
+        "id": "fcbc8c6e04b30655ba2d8c0f04bee4a1",
+        "latitude": 51.22753,
+        "longitude": 4.43904,
+        "name": "120- Eendracht",
+        "timestamp": "2024-08-04T18:54:27.312000Z"
+      },
+      {
+        "empty_slots": 9,
+        "extra": {
+          "address": "Stuivenbergplein ro n° 36-1",
+          "status": "OPN",
+          "uid": 121
+        },
+        "free_bikes": 20,
+        "id": "2c0d792ac6e3537760112bcd63b250e6",
+        "latitude": 51.22746,
+        "longitude": 4.43053,
+        "name": "121- Stuivenbergplein",
+        "timestamp": "2024-08-04T18:54:27.320000Z"
+      },
+      {
+        "empty_slots": 8,
+        "extra": {
+          "address": "Pothoekstraat ro n° 124",
+          "status": "OPN",
+          "uid": 122
+        },
+        "free_bikes": 11,
+        "id": "8b7d3761cee84d31d345af09e1e51100",
+        "latitude": 51.22462,
+        "longitude": 4.4366,
+        "name": "122- Schijnpoort",
+        "timestamp": "2024-08-04T18:54:27.328000Z"
+      },
+      {
+        "empty_slots": 14,
+        "extra": {
+          "address": "Viséstraat 16",
+          "status": "OPN",
+          "uid": 123
+        },
+        "free_bikes": 4,
+        "id": "e1b70e99408b2f7988befccbf18e5e26",
+        "latitude": 51.22904,
+        "longitude": 4.42494,
+        "name": "123- Park Spoor Noord 2",
+        "timestamp": "2024-08-04T18:54:27.338000Z"
+      },
+      {
+        "empty_slots": 14,
+        "extra": {
+          "address": "Ellermansstraat – Fuggerstraat",
+          "status": "OPN",
+          "uid": 124
+        },
+        "free_bikes": 15,
+        "id": "8c50415dacbbf4b8458d0744777847b9",
+        "latitude": 51.22996,
+        "longitude": 4.41961,
+        "name": "124- Park Spoor Noord 1",
+        "timestamp": "2024-08-04T18:54:27.349000Z"
+      },
+      {
+        "empty_slots": 12,
+        "extra": {
+          "address": "Sint-Norbertusstraat/Van Kerckhovenstraat",
+          "status": "OPN",
+          "uid": 125
+        },
+        "free_bikes": 24,
+        "id": "33f34b77295cdf6aecc9746e96fbac11",
+        "latitude": 51.22596,
+        "longitude": 4.42347,
+        "name": "125- Sint-Norbertus",
+        "timestamp": "2024-08-04T18:54:27.364000Z"
+      },
+      {
+        "empty_slots": 16,
+        "extra": {
+          "address": "Italiëlei n° 4",
+          "status": "OPN",
+          "uid": 127
+        },
+        "free_bikes": 13,
+        "id": "add906f09d34c6035958e97675c7e695",
+        "latitude": 51.22827,
+        "longitude": 4.41352,
+        "name": "127- FOD Financiën",
+        "timestamp": "2024-08-04T18:54:27.381000Z"
+      },
+      {
+        "empty_slots": 31,
+        "extra": {
+          "address": "Kempenstraat",
+          "status": "OPN",
+          "uid": 128
+        },
+        "free_bikes": 3,
+        "id": "8db06025b0010745e60a9ba913a63b6a",
+        "latitude": 51.23177,
+        "longitude": 4.41729,
+        "name": "128- ZNA Cadix",
+        "timestamp": "2024-08-04T18:54:27.389000Z"
+      },
+      {
+        "empty_slots": 24,
+        "extra": {
+          "address": "Godefriduskaai Qpark",
+          "status": "OPN",
+          "uid": 129
+        },
+        "free_bikes": 10,
+        "id": "97ddc06d57fbcce999103e21b268b0db",
+        "latitude": 51.22808,
+        "longitude": 4.40888,
+        "name": "129- Godefriduskaai",
+        "timestamp": "2024-08-04T18:54:27.402000Z"
+      },
+      {
+        "empty_slots": 5,
+        "extra": {
+          "address": "De wittestraat - Generaal Lemanstraat",
+          "status": "OPN",
+          "uid": 131
+        },
+        "free_bikes": 15,
+        "id": "e6459c2578a969c8e141ec50c7d599f3",
+        "latitude": 51.19376,
+        "longitude": 4.41215,
+        "name": "131- De Wittestraat",
+        "timestamp": "2024-08-04T18:54:27.432000Z"
+      },
+      {
+        "empty_slots": 9,
+        "extra": {
+          "address": "Maarschalk Montgomeryplein ro n° 4",
+          "status": "OPN",
+          "uid": 132
+        },
+        "free_bikes": 8,
+        "id": "194021868cfc92dac14c65338ba5dd49",
+        "latitude": 51.21177,
+        "longitude": 4.43779,
+        "name": "132- Montgomery",
+        "timestamp": "2024-08-04T18:54:27.448000Z"
+      },
+      {
+        "empty_slots": 19,
+        "extra": {
+          "address": "Entrepotkaai n° 1",
+          "status": "OPN",
+          "uid": 133
+        },
+        "free_bikes": 5,
+        "id": "ba82cdac84dbc156daf51a09a6ba6f0c",
+        "latitude": 51.22958,
+        "longitude": 4.41135,
+        "name": "133- Willemdok",
+        "timestamp": "2024-08-04T18:54:27.461000Z"
+      },
+      {
+        "empty_slots": 36,
+        "extra": {
+          "address": "Godefriduskaai - Oostendekaai",
+          "status": "OPN",
+          "uid": 134
+        },
+        "free_bikes": 0,
+        "id": "6fdfcee8284090de4be898a7c807a505",
+        "latitude": 51.22827,
+        "longitude": 4.40557,
+        "name": "134- MAS",
+        "timestamp": "2024-08-04T18:54:27.472000Z"
+      },
+      {
+        "empty_slots": 11,
+        "extra": {
+          "address": "Sint-Aldegondiskaai",
+          "status": "OPN",
+          "uid": 135
+        },
+        "free_bikes": 22,
+        "id": "779a60c5efae69566378a6e77f0bf93b",
+        "latitude": 51.22797,
+        "longitude": 4.40203,
+        "name": "135- Loodswezen",
+        "timestamp": "2024-08-04T18:54:27.481000Z"
+      },
+      {
+        "empty_slots": 8,
+        "extra": {
+          "address": "Hardenvoort",
+          "status": "OPN",
+          "uid": 136
+        },
+        "free_bikes": 27,
+        "id": "ec89f6c54cd2dad39e2de1d6b4a2c2a1",
+        "latitude": 51.23135,
+        "longitude": 4.421,
+        "name": "136- Spoor Noord Skatebowl",
+        "timestamp": "2024-08-04T18:54:27.488000Z"
+      },
+      {
+        "empty_slots": 26,
+        "extra": {
+          "address": "napeleonkaai/Nassaustraat ",
+          "status": "OPN",
+          "uid": 137
+        },
+        "free_bikes": 8,
+        "id": "525ca38772df71e463f4a94f0cae6de0",
+        "latitude": 51.22978,
+        "longitude": 4.40575,
+        "name": "137- Sint-Laureiskaai",
+        "timestamp": "2024-08-04T18:54:27.497000Z"
+      },
+      {
+        "empty_slots": 13,
+        "extra": {
+          "address": "Amsterdamstraat",
+          "status": "OPN",
+          "uid": 138
+        },
+        "free_bikes": 11,
+        "id": "912b9caa1031f913542ea88408300890",
+        "latitude": 51.2312,
+        "longitude": 4.40355,
+        "name": "138- Amsterdamstraat",
+        "timestamp": "2024-08-04T18:54:27.512000Z"
+      },
+      {
+        "empty_slots": 6,
+        "extra": {
+          "address": "Londenstraat",
+          "status": "OPN",
+          "uid": 139
+        },
+        "free_bikes": 15,
+        "id": "526f1ecb92adce2ccad72d532294adbd",
+        "latitude": 51.23105,
+        "longitude": 4.41267,
+        "name": "139- Londenstraat",
+        "timestamp": "2024-08-04T18:54:27.533000Z"
+      },
+      {
+        "empty_slots": 29,
+        "extra": {
+          "address": "Goethestraat/Thoneth",
+          "status": "OPN",
+          "uid": 140
+        },
+        "free_bikes": 7,
+        "id": "92e775115a2b2e9904e899cf8e31320e",
+        "latitude": 51.23142,
+        "longitude": 4.39163,
+        "name": "140- Jachthaven LO",
+        "timestamp": "2024-08-04T18:54:27.535000Z"
+      },
+      {
+        "empty_slots": 23,
+        "extra": {
+          "address": "Gloriantlaan/Kastanjedreef",
+          "status": "OPN",
+          "uid": 141
+        },
+        "free_bikes": 11,
+        "id": "5e99fdf4609a9b8e802338cb573d484f",
+        "latitude": 51.23525,
+        "longitude": 4.38688,
+        "name": "141- Sint-Anna",
+        "timestamp": "2024-08-04T18:54:27.537000Z"
+      },
+      {
+        "empty_slots": 29,
+        "extra": {
+          "address": "Esmoreitlaan",
+          "status": "OPN",
+          "uid": 142
+        },
+        "free_bikes": 7,
+        "id": "09336f472de65551754ae30e8d434d53",
+        "latitude": 51.23344,
+        "longitude": 4.38254,
+        "name": "142- Esmoreitlaan",
+        "timestamp": "2024-08-04T18:54:27.541000Z"
+      },
+      {
+        "empty_slots": 13,
+        "extra": {
+          "address": "Gloriantlaan/Melis Stokelaan 24  ",
+          "status": "OPN",
+          "uid": 143
+        },
+        "free_bikes": 23,
+        "id": "ce7d68266cd2a145e5c95f95bf78fe3e",
+        "latitude": 51.23122,
+        "longitude": 4.38531,
+        "name": "143- Melis Stokelaan",
+        "timestamp": "2024-08-04T18:54:27.549000Z"
+      },
+      {
+        "empty_slots": 23,
+        "extra": {
+          "address": "August Vermeylenlaan",
+          "status": "OPN",
+          "uid": 144
+        },
+        "free_bikes": 13,
+        "id": "d6a36675e1d5bae1c060a2b4701ca02b",
+        "latitude": 51.23127,
+        "longitude": 4.37867,
+        "name": "144- August Vermeylenlaan",
+        "timestamp": "2024-08-04T18:54:27.560000Z"
+      },
+      {
+        "empty_slots": 13,
+        "extra": {
+          "address": "August Vermeylenlaan/ Charles de Costerlaan",
+          "status": "OPN",
+          "uid": 145
+        },
+        "free_bikes": 9,
+        "id": "4d7c311433f7fb2fc8ffc0d31084a583",
+        "latitude": 51.22784,
+        "longitude": 4.37855,
+        "name": "145- De Coster",
+        "timestamp": "2024-08-04T18:54:27.564000Z"
+      },
+      {
+        "empty_slots": 26,
+        "extra": {
+          "address": "Gloriantlaan/Reinaartlaan",
+          "status": "OPN",
+          "uid": 146
+        },
+        "free_bikes": 5,
+        "id": "64ce845b3881bc9bd9b10da5f568fba1",
+        "latitude": 51.22778,
+        "longitude": 4.38589,
+        "name": "146- Reinaartlaan",
+        "timestamp": "2024-08-04T18:54:27.572000Z"
+      },
+      {
+        "empty_slots": 18,
+        "extra": {
+          "address": "Halewijnlaan",
+          "status": "OPN",
+          "uid": 147
+        },
+        "free_bikes": 6,
+        "id": "f2286759aef10f0dcb1dca179bb33e0b",
+        "latitude": 51.22392,
+        "longitude": 4.37788,
+        "name": "147- Halewijnlaan",
+        "timestamp": "2024-08-04T18:54:27.591000Z"
+      },
+      {
+        "empty_slots": 33,
+        "extra": {
+          "address": "Frederik Van Eedenstraa",
+          "status": "OPN",
+          "uid": 148
+        },
+        "free_bikes": 2,
+        "id": "f9fbf8d76aec1dbdb56ecfde4b065fdf",
+        "latitude": 51.2232,
+        "longitude": 4.38622,
+        "name": "148- Verhaerenlaan",
+        "timestamp": "2024-08-04T18:54:27.597000Z"
+      },
+      {
+        "empty_slots": 20,
+        "extra": {
+          "address": "Blancefloerlaan tov Frederik van Eedenplein",
+          "status": "OPN",
+          "uid": 149
+        },
+        "free_bikes": 14,
+        "id": "eac795a24f5dfe84dbd186505260d910",
+        "latitude": 51.22061,
+        "longitude": 4.38633,
+        "name": "149- Van Eedenplein",
+        "timestamp": "2024-08-04T18:54:27.602000Z"
+      },
+      {
+        "empty_slots": 15,
+        "extra": {
+          "address": "Waterhoenlaan",
+          "status": "OPN",
+          "uid": 150
+        },
+        "free_bikes": 8,
+        "id": "a643ab863215cfc06579529000623afb",
+        "latitude": 51.22007,
+        "longitude": 4.38172,
+        "name": "150- Waterhoenlaan",
+        "timestamp": "2024-08-04T18:54:27.610000Z"
+      },
+      {
+        "empty_slots": 2,
+        "extra": {
+          "address": "Blancefloerlaan/Halewijnlaan",
+          "status": "OPN",
+          "uid": 151
+        },
+        "free_bikes": 30,
+        "id": "9326a23d306fa791c6cd6d7133c83282",
+        "latitude": 51.22031,
+        "longitude": 4.37841,
+        "name": "151- Van Cauwelaert",
+        "timestamp": "2024-08-04T18:54:27.622000Z"
+      },
+      {
+        "empty_slots": 29,
+        "extra": {
+          "address": "Blancefloerlaan",
+          "status": "OPN",
+          "uid": 152
+        },
+        "free_bikes": 7,
+        "id": "2a36bbe236e10b35ff9d7cff85f2323d",
+        "latitude": 51.22007,
+        "longitude": 4.37559,
+        "name": "152- Blancefloerlaan",
+        "timestamp": "2024-08-04T18:54:27.628000Z"
+      },
+      {
+        "empty_slots": 32,
+        "extra": {
+          "address": "Beatrijslaan",
+          "status": "OPN",
+          "uid": 153
+        },
+        "free_bikes": 4,
+        "id": "883066b15a885b451c67145b483214f2",
+        "latitude": 51.21853,
+        "longitude": 4.38571,
+        "name": "153- Beatrijslaan",
+        "timestamp": "2024-08-04T18:54:27.633000Z"
+      },
+      {
+        "empty_slots": 24,
+        "extra": {
+          "address": "Terloplein",
+          "status": "OPN",
+          "uid": 154
+        },
+        "free_bikes": 7,
+        "id": "f4626650bc81597d985d3847a0c3d3a7",
+        "latitude": 51.21907,
+        "longitude": 4.44436,
+        "name": "154- Terloplein",
+        "timestamp": "2024-08-04T18:54:27.640000Z"
+      },
+      {
+        "empty_slots": 15,
+        "extra": {
+          "address": "Statielei",
+          "status": "OPN",
+          "uid": 155
+        },
+        "free_bikes": 20,
+        "id": "2689889245fb0a1eceddcad8658d5165",
+        "latitude": 51.2162,
+        "longitude": 4.44564,
+        "name": "155- Statielei",
+        "timestamp": "2024-08-04T18:54:27.646000Z"
+      },
+      {
+        "empty_slots": 15,
+        "extra": {
+          "address": "Van Kerckhovenstraat 74-76",
+          "status": "OPN",
+          "uid": 156
+        },
+        "free_bikes": 15,
+        "id": "41dbc111c1d8790d8ff002871b3b64a7",
+        "latitude": 51.22603,
+        "longitude": 4.42551,
+        "name": "156- Gasstraat",
+        "timestamp": "2024-08-04T18:54:27.653000Z"
+      },
+      {
+        "empty_slots": 20,
+        "extra": {
+          "address": "Zuidervelodroom",
+          "status": "OPN",
+          "uid": 158
+        },
+        "free_bikes": 13,
+        "id": "9fae63fc0d57410165dc4b5c1513842d",
+        "latitude": 51.20193,
+        "longitude": 4.39839,
+        "name": "158- Zuidervelodroom",
+        "timestamp": "2024-08-04T18:54:27.678000Z"
+      },
+      {
+        "empty_slots": 22,
+        "extra": {
+          "address": "Boudewijnsstraat",
+          "status": "OPN",
+          "uid": 159
+        },
+        "free_bikes": 5,
+        "id": "a8d4ef7a5918e46fc41afebe42bfaa18",
+        "latitude": 51.2056,
+        "longitude": 4.39928,
+        "name": "159- Den Bell 2",
+        "timestamp": "2024-08-04T18:54:27.680000Z"
+      },
+      {
+        "empty_slots": 20,
+        "extra": {
+          "address": "Brusselstraat",
+          "status": "OPN",
+          "uid": 160
+        },
+        "free_bikes": 16,
+        "id": "944b8a22e2a427095c6fc000286f45e2",
+        "latitude": 51.20338,
+        "longitude": 4.3888,
+        "name": "160- Vlinderpaleis",
+        "timestamp": "2024-08-04T18:54:27.685000Z"
+      },
+      {
+        "empty_slots": 23,
+        "extra": {
+          "address": "Henri La Fontainestraat",
+          "status": "OPN",
+          "uid": 161
+        },
+        "free_bikes": 9,
+        "id": "1bf4875468b53cf2ede63be668cc27d9",
+        "latitude": 51.20356,
+        "longitude": 4.42566,
+        "name": "161 - Hospitaalplein",
+        "timestamp": "2024-08-04T18:54:27.702000Z"
+      },
+      {
+        "empty_slots": 23,
+        "extra": {
+          "address": "Blancefloerlaan",
+          "status": "OPN",
+          "uid": 162
+        },
+        "free_bikes": 12,
+        "id": "796daa047a9b5d20ba6d577e36e0ef45",
+        "latitude": 51.21993,
+        "longitude": 4.36874,
+        "name": "162 - Regatta",
+        "timestamp": "2024-08-04T18:54:27.705000Z"
+      },
+      {
+        "empty_slots": 20,
+        "extra": {
+          "address": "Galgenweellaan",
+          "status": "OPN",
+          "uid": 163
+        },
+        "free_bikes": 15,
+        "id": "1ff77d266e5fb8c5edcbfb00d012d323",
+        "latitude": 51.21748,
+        "longitude": 4.37798,
+        "name": "163 - Pluvier",
+        "timestamp": "2024-08-04T18:54:27.712000Z"
+      },
+      {
+        "empty_slots": 25,
+        "extra": {
+          "address": "Ellermanstraat",
+          "status": "OPN",
+          "uid": 164
+        },
+        "free_bikes": 11,
+        "id": "c7d63a5cde7f230e6ea2efb341592dfa",
+        "latitude": 51.22993,
+        "longitude": 4.41499,
+        "name": "164 - AP Ellermanstraat",
+        "timestamp": "2024-08-04T18:54:27.717000Z"
+      },
+      {
+        "empty_slots": 25,
+        "extra": {
+          "address": "Paardenmarkt",
+          "status": "OPN",
+          "uid": 165
+        },
+        "free_bikes": 11,
+        "id": "1cbe05a7a5803d03e4f2efa50852ada9",
+        "latitude": 51.22516,
+        "longitude": 4.40899,
+        "name": "165- Den Roscam",
+        "timestamp": "2024-08-04T18:54:27.733000Z"
+      },
+      {
+        "empty_slots": 29,
+        "extra": {
+          "address": "Schoenmarkt",
+          "status": "OPN",
+          "uid": 166
+        },
+        "free_bikes": 3,
+        "id": "58f495a8d55f23369af7b8f213964c49",
+        "latitude": 51.21831,
+        "longitude": 4.40331,
+        "name": "166 - Schoenmarkt",
+        "timestamp": "2024-08-04T18:54:27.744000Z"
+      },
+      {
+        "empty_slots": 6,
+        "extra": {
+          "address": "Italielei",
+          "status": "OPN",
+          "uid": 167
+        },
+        "free_bikes": 24,
+        "id": "11e13c5a03d7257eb6c817bdb0fb53a7",
+        "latitude": 51.22845,
+        "longitude": 4.41339,
+        "name": "167 - Fod Financiën 2 ",
+        "timestamp": "2024-08-04T18:54:27.756000Z"
+      },
+      {
+        "empty_slots": 5,
+        "extra": {
+          "address": "Quellinstraat 6-8",
+          "status": "OPN",
+          "uid": 170
+        },
+        "free_bikes": 16,
+        "id": "8742b2a9d8bd0d1d8d9befd7f6377c14",
+        "latitude": 51.21736,
+        "longitude": 4.41654,
+        "name": "170-Quellin",
+        "timestamp": "2024-08-04T18:54:27.760000Z"
+      },
+      {
+        "empty_slots": 6,
+        "extra": {
+          "address": "Koningin Astridplein",
+          "status": "OPN",
+          "uid": 171
+        },
+        "free_bikes": 5,
+        "id": "e4e90cbff7ba058b779005dbb54fe2c8",
+        "latitude": 51.21788,
+        "longitude": 4.42061,
+        "name": "171 - Centraal Station 3 ",
+        "timestamp": "2024-08-04T18:54:27.776000Z"
+      },
+      {
+        "empty_slots": 3,
+        "extra": {
+          "address": "Koningin Astridplein",
+          "status": "OPN",
+          "uid": 172
+        },
+        "free_bikes": 8,
+        "id": "e376255f76c639f36d58977ca9af7af3",
+        "latitude": 51.2179,
+        "longitude": 4.42066,
+        "name": "172 - Centraal Station 4",
+        "timestamp": "2024-08-04T18:54:27.800000Z"
+      },
+      {
+        "empty_slots": 20,
+        "extra": {
+          "address": "Operaplein",
+          "status": "OPN",
+          "uid": 173
+        },
+        "free_bikes": 16,
+        "id": "35f8e2b768966f98a20e5f0e9341cdb4",
+        "latitude": 51.2202,
+        "longitude": 4.41706,
+        "name": "173 - Franklin Roosevelt",
+        "timestamp": "2024-08-04T18:54:27.816000Z"
+      },
+      {
+        "empty_slots": 18,
+        "extra": {
+          "address": "Korte Winkelhaakstraat - Offerandestraat",
+          "status": "OPN",
+          "uid": 174
+        },
+        "free_bikes": 17,
+        "id": "19bdfc8539c70ec8b155b73b0b4d2093",
+        "latitude": 51.21954,
+        "longitude": 4.4233,
+        "name": "174- Offerande",
+        "timestamp": "2024-08-04T18:54:27.843000Z"
+      },
+      {
+        "empty_slots": 19,
+        "extra": {
+          "address": "Asiadok-oostkaai / Noorderlaan",
+          "status": "OPN",
+          "uid": 175
+        },
+        "free_bikes": 16,
+        "id": "6439056b4dfacb555c9cbae1546c8c2a",
+        "latitude": 51.23518,
+        "longitude": 4.4202,
+        "name": "175 - Asiadok",
+        "timestamp": "2024-08-04T18:54:27.870000Z"
+      },
+      {
+        "empty_slots": 7,
+        "extra": {
+          "address": "Ekersesteenweg",
+          "status": "OPN",
+          "uid": 201
+        },
+        "free_bikes": 26,
+        "id": "75af6b66fdc79d43bfdec154cf7e6a6d",
+        "latitude": 51.26263,
+        "longitude": 4.41869,
+        "name": "201- P&R Luchtbal",
+        "timestamp": "2024-08-04T18:54:27.904000Z"
+      },
+      {
+        "empty_slots": 14,
+        "extra": {
+          "address": "Dublinstraat",
+          "status": "OPN",
+          "uid": 202
+        },
+        "free_bikes": 10,
+        "id": "17b3f821c6a8c4fd1d99f57fec74641c",
+        "latitude": 51.25727,
+        "longitude": 4.42164,
+        "name": "202- Squarepark",
+        "timestamp": "2024-08-04T18:54:27.910000Z"
+      },
+      {
+        "empty_slots": 28,
+        "extra": {
+          "address": "Venezuelastraat",
+          "status": "OPN",
+          "uid": 203
+        },
+        "free_bikes": 8,
+        "id": "25c06e3fc2cdffc1eccdc1ef1bd9e350",
+        "latitude": 51.25361,
+        "longitude": 4.42317,
+        "name": "203- Venezuelastraat",
+        "timestamp": "2024-08-04T18:54:27.913000Z"
+      },
+      {
+        "empty_slots": 24,
+        "extra": {
+          "address": "Noorderlaan",
+          "status": "OPN",
+          "uid": 204
+        },
+        "free_bikes": 11,
+        "id": "42472a4068a5bcd937160934f4b9b058",
+        "latitude": 51.24996,
+        "longitude": 4.4209,
+        "name": "204- Luchtbal winkelcentrum",
+        "timestamp": "2024-08-04T18:54:27.917000Z"
+      },
+      {
+        "empty_slots": 19,
+        "extra": {
+          "address": "Groenendaallaan",
+          "status": "OPN",
+          "uid": 205
+        },
+        "free_bikes": 17,
+        "id": "9ee0bcdeca56985092a70005a92df3b2",
+        "latitude": 51.24478,
+        "longitude": 4.41434,
+        "name": "205- Kinepolis",
+        "timestamp": "2024-08-04T18:54:27.922000Z"
+      },
+      {
+        "empty_slots": 7,
+        "extra": {
+          "address": "Bredabaan",
+          "status": "OPN",
+          "uid": 207
+        },
+        "free_bikes": 29,
+        "id": "55f406d3e5482d93936e9c9847bc66e4",
+        "latitude": 51.25812,
+        "longitude": 4.46196,
+        "name": "207- P&R Merksem",
+        "timestamp": "2024-08-04T18:54:27.938000Z"
+      },
+      {
+        "empty_slots": 19,
+        "extra": {
+          "address": "Korte Bremstraat",
+          "status": "OPN",
+          "uid": 209
+        },
+        "free_bikes": 17,
+        "id": "52f557af4589cdff97d934948cdc75b9",
+        "latitude": 51.25644,
+        "longitude": 4.44715,
+        "name": "209- Melgeshof",
+        "timestamp": "2024-08-04T18:54:27.947000Z"
+      },
+      {
+        "empty_slots": 23,
+        "extra": {
+          "address": "Maantjessteenweg",
+          "status": "OPN",
+          "uid": 210
+        },
+        "free_bikes": 12,
+        "id": "3a38ba74f5b1e4e7338bbcd1972ffd75",
+        "latitude": 51.25523,
+        "longitude": 4.43576,
+        "name": "210- Maantjessteenweg",
+        "timestamp": "2024-08-04T18:54:27.950000Z"
+      },
+      {
+        "empty_slots": 22,
+        "extra": {
+          "address": "Rodeloopstraat",
+          "status": "OPN",
+          "uid": 211
+        },
+        "free_bikes": 14,
+        "id": "93e4a30d0903d9db9f18262b17a0e11a",
+        "latitude": 51.25131,
+        "longitude": 4.43732,
+        "name": "211- Cultuurcentrum",
+        "timestamp": "2024-08-04T18:54:27.958000Z"
+      },
+      {
+        "empty_slots": 29,
+        "extra": {
+          "address": "Rodeloopstraat",
+          "status": "OPN",
+          "uid": 212
+        },
+        "free_bikes": 7,
+        "id": "93c1f1bc8964a9d4d33ae8daa10936c7",
+        "latitude": 51.25091,
+        "longitude": 4.44231,
+        "name": "212- Rode Loop",
+        "timestamp": "2024-08-04T18:54:27.965000Z"
+      },
+      {
+        "empty_slots": 12,
+        "extra": {
+          "address": "Kroonplein",
+          "status": "OPN",
+          "uid": 213
+        },
+        "free_bikes": 18,
+        "id": "d52c097c262f979cf444f7147e572e3e",
+        "latitude": 51.25148,
+        "longitude": 4.44805,
+        "name": "213- Kroonplein",
+        "timestamp": "2024-08-04T18:54:27.968000Z"
+      },
+      {
+        "empty_slots": 24,
+        "extra": {
+          "address": "Kerkhofblommenstraat",
+          "status": "OPN",
+          "uid": 214
+        },
+        "free_bikes": 12,
+        "id": "9c1f018a7b16edfcf6799b5e44ecb0eb",
+        "latitude": 51.2481,
+        "longitude": 4.43234,
+        "name": "214- Kerkhofblommen",
+        "timestamp": "2024-08-04T18:54:27.971000Z"
+      },
+      {
+        "empty_slots": 30,
+        "extra": {
+          "address": "Nieuwdreef",
+          "status": "OPN",
+          "uid": 215
+        },
+        "free_bikes": 6,
+        "id": "8ada453e8e90af099f45737052d88835",
+        "latitude": 51.24671,
+        "longitude": 4.44015,
+        "name": "215- Nieuwdreef",
+        "timestamp": "2024-08-04T18:54:27.975000Z"
+      },
+      {
+        "empty_slots": 19,
+        "extra": {
+          "address": "Van Heybeeckstraat",
+          "status": "OPN",
+          "uid": 216
+        },
+        "free_bikes": 11,
+        "id": "37bbcb3936349cd07cc666a102b60171",
+        "latitude": 51.24727,
+        "longitude": 4.44902,
+        "name": "216- Zwembad Merksem",
+        "timestamp": "2024-08-04T18:54:27.983000Z"
+      },
+      {
+        "empty_slots": 12,
+        "extra": {
+          "address": "Bredabaan",
+          "status": "OPN",
+          "uid": 217
+        },
+        "free_bikes": 16,
+        "id": "633818b891c26a1a080c815a9dc8a59f",
+        "latitude": 51.24917,
+        "longitude": 4.45468,
+        "name": "217- Joske Vermeulen",
+        "timestamp": "2024-08-04T18:54:27.991000Z"
+      },
+      {
+        "empty_slots": 24,
+        "extra": {
+          "address": "Gagelveldenstraat",
+          "status": "OPN",
+          "uid": 218
+        },
+        "free_bikes": 12,
+        "id": "fc6680a5f31fea2af1008d1d10408081",
+        "latitude": 51.24302,
+        "longitude": 4.43569,
+        "name": "218- Groenendaalcollege",
+        "timestamp": "2024-08-04T18:54:28.005000Z"
+      },
+      {
+        "empty_slots": 22,
+        "extra": {
+          "address": "Borrewaterstraat",
+          "status": "OPN",
+          "uid": 219
+        },
+        "free_bikes": 11,
+        "id": "6576bcb7887a0c72e2e6c010c4020f43",
+        "latitude": 51.24216,
+        "longitude": 4.44252,
+        "name": "219- Districtshuis Merksem",
+        "timestamp": "2024-08-04T18:54:28.049000Z"
+      },
+      {
+        "empty_slots": 16,
+        "extra": {
+          "address": "Sint-Bartholomeusstraat",
+          "status": "OPN",
+          "uid": 220
+        },
+        "free_bikes": 14,
+        "id": "8e1e8e770f7ff5543d32e93e80ff7a88",
+        "latitude": 51.24315,
+        "longitude": 4.4474,
+        "name": "220- 't Dokske",
+        "timestamp": "2024-08-04T18:54:28.065000Z"
+      },
+      {
+        "empty_slots": 18,
+        "extra": {
+          "address": "Mexicostraat",
+          "status": "OPN",
+          "uid": 221
+        },
+        "free_bikes": 15,
+        "id": "8130787cce6e7a71d4c8ba505d5969e9",
+        "latitude": 51.24048,
+        "longitude": 4.40799,
+        "name": "221-Havenhuis",
+        "timestamp": "2024-08-04T18:54:28.085000Z"
+      },
+      {
+        "empty_slots": 9,
+        "extra": {
+          "address": "Binnenvaartstraat",
+          "status": "OPN",
+          "uid": 222
+        },
+        "free_bikes": 25,
+        "id": "259d1217376db18a9a68ac054c155f1e",
+        "latitude": 51.23334,
+        "longitude": 4.41391,
+        "name": "222- Cadix Oost",
+        "timestamp": "2024-08-04T18:54:28.100000Z"
+      },
+      {
+        "empty_slots": 31,
+        "extra": {
+          "address": "Montevideostraat",
+          "status": "OPN",
+          "uid": 223
+        },
+        "free_bikes": 4,
+        "id": "328792ab7004e85e9ac62073065c4421",
+        "latitude": 51.23335,
+        "longitude": 4.40311,
+        "name": "223- Red Star Line",
+        "timestamp": "2024-08-04T18:54:28.108000Z"
+      },
+      {
+        "empty_slots": 8,
+        "extra": {
+          "address": "Indiestraat",
+          "status": "OPN",
+          "uid": 224
+        },
+        "free_bikes": 28,
+        "id": "9b035bd926222b0f61137720e4d5136a",
+        "latitude": 51.23439,
+        "longitude": 4.40958,
+        "name": "224- Indiestraat",
+        "timestamp": "2024-08-04T18:54:28.116000Z"
+      },
+      {
+        "empty_slots": 22,
+        "extra": {
+          "address": "Verbindingsdok/Oostkaai",
+          "status": "OPN",
+          "uid": 225
+        },
+        "free_bikes": 14,
+        "id": "40e07983f1c64959e7c62d2c02fccaae",
+        "latitude": 51.23048,
+        "longitude": 4.40769,
+        "name": "225- Verbindingsdok Eilandje",
+        "timestamp": "2024-08-04T18:54:28.124000Z"
+      },
+      {
+        "empty_slots": 21,
+        "extra": {
+          "address": "Noordschippersdok 41",
+          "status": "OPN",
+          "uid": 226
+        },
+        "free_bikes": 14,
+        "id": "8dd308dda9c59d018ff09d050fa9c0f0",
+        "latitude": 51.2339,
+        "longitude": 4.42974,
+        "name": "226- Noordschippersdok",
+        "timestamp": "2024-08-04T18:54:28.136000Z"
+      },
+      {
+        "empty_slots": 5,
+        "extra": {
+          "address": "Van Amstelstraat",
+          "status": "OPN",
+          "uid": 227
+        },
+        "free_bikes": 18,
+        "id": "204e32c51e13444aa10a355331106bf6",
+        "latitude": 51.23276,
+        "longitude": 4.44433,
+        "name": "227- Amstel",
+        "timestamp": "2024-08-04T18:54:28.140000Z"
+      },
+      {
+        "empty_slots": 10,
+        "extra": {
+          "address": "Van Heetveldelei",
+          "status": "OPN",
+          "uid": 228
+        },
+        "free_bikes": 14,
+        "id": "a01694b2c46930405f6a2b967722ad7a",
+        "latitude": 51.22984,
+        "longitude": 4.45141,
+        "name": "228- Van Heetvelde",
+        "timestamp": "2024-08-04T18:54:28.147000Z"
+      },
+      {
+        "empty_slots": 25,
+        "extra": {
+          "address": "Jozef Nellenslei",
+          "status": "OPN",
+          "uid": 229
+        },
+        "free_bikes": 11,
+        "id": "9b8e9301367dda36c482e1065a22726f",
+        "latitude": 51.22616,
+        "longitude": 4.45199,
+        "name": "229- Jozef Nellens",
+        "timestamp": "2024-08-04T18:54:28.156000Z"
+      },
+      {
+        "empty_slots": 25,
+        "extra": {
+          "address": "Bosuil",
+          "status": "OPN",
+          "uid": 230
+        },
+        "free_bikes": 11,
+        "id": "5904c8f722781fcd65a41587562264b1",
+        "latitude": 51.22909,
+        "longitude": 4.46191,
+        "name": "230- Bosuil",
+        "timestamp": "2024-08-04T18:54:28.160000Z"
+      },
+      {
+        "empty_slots": 27,
+        "extra": {
+          "address": "Ter Heydenlaan",
+          "status": "OPN",
+          "uid": 231
+        },
+        "free_bikes": 9,
+        "id": "4da13a1ac347be9613a61f971715c311",
+        "latitude": 51.22922,
+        "longitude": 4.46783,
+        "name": "231- den Antwerp",
+        "timestamp": "2024-08-04T18:54:28.172000Z"
+      },
+      {
+        "empty_slots": 16,
+        "extra": {
+          "address": "Wim Saerensplein",
+          "status": "OPN",
+          "uid": 232
+        },
+        "free_bikes": 19,
+        "id": "5276d56532d12bc99b67749364415d4b",
+        "latitude": 51.22849,
+        "longitude": 4.47867,
+        "name": "232- Wim Saerens",
+        "timestamp": "2024-08-04T18:54:28.177000Z"
+      },
+      {
+        "empty_slots": 27,
+        "extra": {
+          "address": "Gallifortlei",
+          "status": "OPN",
+          "uid": 233
+        },
+        "free_bikes": 9,
+        "id": "905cf18912f5f2e54322bb6e442a3c0b",
+        "latitude": 51.2251,
+        "longitude": 4.46617,
+        "name": "233- Gallifort",
+        "timestamp": "2024-08-04T18:54:28.184000Z"
+      },
+      {
+        "empty_slots": 12,
+        "extra": {
+          "address": "Jan Brochovenstraat",
+          "status": "OPN",
+          "uid": 234
+        },
+        "free_bikes": 24,
+        "id": "5e452c2fad32d31111a4fdc8e17478d4",
+        "latitude": 51.2222,
+        "longitude": 4.46118,
+        "name": "234- Deurne Atheneum",
+        "timestamp": "2024-08-04T18:54:28.188000Z"
+      },
+      {
+        "empty_slots": 15,
+        "extra": {
+          "address": "Cogelsplein",
+          "status": "OPN",
+          "uid": 235
+        },
+        "free_bikes": 20,
+        "id": "2ef3f43c1a26a374fbf24770683c541a",
+        "latitude": 51.21994,
+        "longitude": 4.45501,
+        "name": "235- Cogelsplein",
+        "timestamp": "2024-08-04T18:54:28.196000Z"
+      },
+      {
+        "empty_slots": 14,
+        "extra": {
+          "address": "Maurice Dequeeckerplein",
+          "status": "OPN",
+          "uid": 236
+        },
+        "free_bikes": 20,
+        "id": "7c4f1f69d876d25f7d71f592cc00fce5",
+        "latitude": 51.21916,
+        "longitude": 4.46007,
+        "name": "236- Districtshuis Deurne",
+        "timestamp": "2024-08-04T18:54:28.200000Z"
+      },
+      {
+        "empty_slots": 24,
+        "extra": {
+          "address": "Ter Rivierenlaan",
+          "status": "OPN",
+          "uid": 237
+        },
+        "free_bikes": 12,
+        "id": "a737e3604a0de6ba455228ce543987dd",
+        "latitude": 51.22033,
+        "longitude": 4.46925,
+        "name": "237- Ter Rivieren",
+        "timestamp": "2024-08-04T18:54:28.207000Z"
+      },
+      {
+        "empty_slots": 20,
+        "extra": {
+          "address": "Ertbruggelaan",
+          "status": "OPN",
+          "uid": 238
+        },
+        "free_bikes": 4,
+        "id": "3f125ce09bda9f78e8320a3a543d083d",
+        "latitude": 51.22373,
+        "longitude": 4.47563,
+        "name": "238- Ertbrugge",
+        "timestamp": "2024-08-04T18:54:28.211000Z"
+      },
+      {
+        "empty_slots": 14,
+        "extra": {
+          "address": "Alfons schneiderlaan",
+          "status": "OPN",
+          "uid": 239
+        },
+        "free_bikes": 13,
+        "id": "512c269ef950cf15f17e030de4c0b08f",
+        "latitude": 51.22126,
+        "longitude": 4.47948,
+        "name": "239- Zwarte Arend",
+        "timestamp": "2024-08-04T18:54:28.217000Z"
+      },
+      {
+        "empty_slots": 24,
+        "extra": {
+          "address": "Ruggeveldlaan",
+          "status": "OPN",
+          "uid": 240
+        },
+        "free_bikes": 12,
+        "id": "5f07b9d91b23b834d7e818bbc9a892e9",
+        "latitude": 51.21757,
+        "longitude": 4.48212,
+        "name": "240- Park Groot Schijn",
+        "timestamp": "2024-08-04T18:54:28.232000Z"
+      },
+      {
+        "empty_slots": 31,
+        "extra": {
+          "address": "Collegelaan ",
+          "status": "OPN",
+          "uid": 241
+        },
+        "free_bikes": 4,
+        "id": "54e8129eb73fbee75a2b440ef5fbd28e",
+        "latitude": 51.21333,
+        "longitude": 4.45333,
+        "name": "241- Kerkendijk",
+        "timestamp": "2024-08-04T18:54:28.237000Z"
+      },
+      {
+        "empty_slots": 14,
+        "extra": {
+          "address": "Te Boelaerlei",
+          "status": "OPN",
+          "uid": 242
+        },
+        "free_bikes": 21,
+        "id": "2b83e47cd5acdb6094c047b5ec4c4499",
+        "latitude": 51.21043,
+        "longitude": 4.45251,
+        "name": "242- Te Boelaerlei",
+        "timestamp": "2024-08-04T18:54:28.244000Z"
+      },
+      {
+        "empty_slots": 25,
+        "extra": {
+          "address": "Herentalsebaan",
+          "status": "OPN",
+          "uid": 243
+        },
+        "free_bikes": 10,
+        "id": "7e78903b7b17c654b5b76f9ee06ae645",
+        "latitude": 51.20954,
+        "longitude": 4.45816,
+        "name": "243- Mestputteke",
+        "timestamp": "2024-08-04T18:54:28.250000Z"
+      },
+      {
+        "empty_slots": 21,
+        "extra": {
+          "address": "Herentalsebaan",
+          "status": "OPN",
+          "uid": 244
+        },
+        "free_bikes": 15,
+        "id": "9326677581e93c5fdea47cc410fdb023",
+        "latitude": 51.20764,
+        "longitude": 4.46532,
+        "name": "244- Waterbaan",
+        "timestamp": "2024-08-04T18:54:28.257000Z"
+      },
+      {
+        "empty_slots": 22,
+        "extra": {
+          "address": "Florent Pauwelslei",
+          "status": "OPN",
+          "uid": 245
+        },
+        "free_bikes": 14,
+        "id": "348411447635ba3f6d0ce88c42b16712",
+        "latitude": 51.20681,
+        "longitude": 4.47132,
+        "name": "245- AZ Monica",
+        "timestamp": "2024-08-04T18:54:28.263000Z"
+      },
+      {
+        "empty_slots": 21,
+        "extra": {
+          "address": "Arenaplein",
+          "status": "OPN",
+          "uid": 246
+        },
+        "free_bikes": 15,
+        "id": "a16d8bb478af3e535eeadb4491baf856",
+        "latitude": 51.20695,
+        "longitude": 4.45833,
+        "name": "246- Arena",
+        "timestamp": "2024-08-04T18:54:28.265000Z"
+      },
+      {
+        "empty_slots": 25,
+        "extra": {
+          "address": "Luitenant Lippenslaan",
+          "status": "OPN",
+          "uid": 247
+        },
+        "free_bikes": 8,
+        "id": "54dd111e10f1cbf66917da1069146c2d",
+        "latitude": 51.20832,
+        "longitude": 4.44595,
+        "name": "247- ZNA Sint Erasmus",
+        "timestamp": "2024-08-04T18:54:28.272000Z"
+      },
+      {
+        "empty_slots": 24,
+        "extra": {
+          "address": "De Schans",
+          "status": "OPN",
+          "uid": 248
+        },
+        "free_bikes": 12,
+        "id": "1700961d3df2042766cbeab4efa7bb38",
+        "latitude": 51.20598,
+        "longitude": 4.44925,
+        "name": "248- De Schans",
+        "timestamp": "2024-08-04T18:54:28.311000Z"
+      },
+      {
+        "empty_slots": 5,
+        "extra": {
+          "address": "Frans de Vriendstraat",
+          "status": "OPN",
+          "uid": 249
+        },
+        "free_bikes": 24,
+        "id": "d77060676c1604b25bdf38337bb00c83",
+        "latitude": 51.20381,
+        "longitude": 4.44422,
+        "name": "249- Frans De Vriend",
+        "timestamp": "2024-08-04T18:54:28.336000Z"
+      },
+      {
+        "empty_slots": 10,
+        "extra": {
+          "address": "Diksmuidelaan",
+          "status": "OPN",
+          "uid": 250
+        },
+        "free_bikes": 25,
+        "id": "c9b29054b3a381914653da9b1d53c707",
+        "latitude": 51.20111,
+        "longitude": 4.439,
+        "name": "250- Borsbeekbrug",
+        "timestamp": "2024-08-04T18:54:28.340000Z"
+      },
+      {
+        "empty_slots": 3,
+        "extra": {
+          "address": "Arthur Matthyslaan",
+          "status": "OPN",
+          "uid": 251
+        },
+        "free_bikes": 27,
+        "id": "32867a80cd6a8458b3719c44c8e951e6",
+        "latitude": 51.20397,
+        "longitude": 4.45209,
+        "name": "251- Te Boelaerpark Noord",
+        "timestamp": "2024-08-04T18:54:28.341000Z"
+      },
+      {
+        "empty_slots": 13,
+        "extra": {
+          "address": "Karel de Preterlei",
+          "status": "OPN",
+          "uid": 252
+        },
+        "free_bikes": 16,
+        "id": "a5559bf3dbd334ea0a80f909bc510417",
+        "latitude": 51.20001,
+        "longitude": 4.45028,
+        "name": "252- Te Boelaerpark/Gitschotellei",
+        "timestamp": "2024-08-04T18:54:28.342000Z"
+      },
+      {
+        "empty_slots": 8,
+        "extra": {
+          "address": "Vosstraat",
+          "status": "OPN",
+          "uid": 253
+        },
+        "free_bikes": 27,
+        "id": "ec8e2061bbb67d804789916aeeb34b6e",
+        "latitude": 51.19806,
+        "longitude": 4.45322,
+        "name": "253- Vosplein",
+        "timestamp": "2024-08-04T18:54:28.348000Z"
+      },
+      {
+        "empty_slots": 15,
+        "extra": {
+          "address": "Boekenberglei",
+          "status": "OPN",
+          "uid": 254
+        },
+        "free_bikes": 14,
+        "id": "691dde9eab0070cd406da413c200fdc1",
+        "latitude": 51.19754,
+        "longitude": 4.4596,
+        "name": "254- Sint-Jozef",
+        "timestamp": "2024-08-04T18:54:28.352000Z"
+      },
+      {
+        "empty_slots": 22,
+        "extra": {
+          "address": "Van den Hautelei",
+          "status": "OPN",
+          "uid": 255
+        },
+        "free_bikes": 13,
+        "id": "465e099ec59162e3849e2024c3b960d4",
+        "latitude": 51.20414,
+        "longitude": 4.46764,
+        "name": "255- Van den Haute",
+        "timestamp": "2024-08-04T18:54:28.353000Z"
+      },
+      {
+        "empty_slots": 21,
+        "extra": {
+          "address": "Helderstraat",
+          "status": "OPN",
+          "uid": 256
+        },
+        "free_bikes": 6,
+        "id": "be92335b7849403ec71c34d009577878",
+        "latitude": 51.19546,
+        "longitude": 4.44223,
+        "name": "256- Zillebeek",
+        "timestamp": "2024-08-04T18:54:28.358000Z"
+      },
+      {
+        "empty_slots": 31,
+        "extra": {
+          "address": "Hofstadestraat",
+          "status": "OPN",
+          "uid": 257
+        },
+        "free_bikes": 4,
+        "id": "6117743623f657278e654147472aa23e",
+        "latitude": 51.19233,
+        "longitude": 4.44875,
+        "name": "257- Hofstade",
+        "timestamp": "2024-08-04T18:54:28.361000Z"
+      },
+      {
+        "empty_slots": 17,
+        "extra": {
+          "address": "Lodewijk van Berckenlaan",
+          "status": "OPN",
+          "uid": 258
+        },
+        "free_bikes": 12,
+        "id": "d46621259dfff705aadd9f733f7aca94",
+        "latitude": 51.1975,
+        "longitude": 4.44373,
+        "name": "258- Hof van Nauwelaerts",
+        "timestamp": "2024-08-04T18:54:28.364000Z"
+      },
+      {
+        "empty_slots": 22,
+        "extra": {
+          "address": "Posthofbrug",
+          "status": "OPN",
+          "uid": 259
+        },
+        "free_bikes": 12,
+        "id": "872933972121218320c0fa807ac76429",
+        "latitude": 51.19332,
+        "longitude": 4.43703,
+        "name": "259- Posthofbrug",
+        "timestamp": "2024-08-04T18:54:28.373000Z"
+      },
+      {
+        "empty_slots": 21,
+        "extra": {
+          "address": "Hof ter Schriecklaan",
+          "status": "OPN",
+          "uid": 260
+        },
+        "free_bikes": 6,
+        "id": "0be1283288ecad3358b7b82ec2a14c03",
+        "latitude": 51.18964,
+        "longitude": 4.42166,
+        "name": "260- Ter Schrieck",
+        "timestamp": "2024-08-04T18:54:28.377000Z"
+      },
+      {
+        "empty_slots": 17,
+        "extra": {
+          "address": "Henri Prostlaan",
+          "status": "OPN",
+          "uid": 261
+        },
+        "free_bikes": 19,
+        "id": "030fd5f36fa2d26c6a98695f58ab8852",
+        "latitude": 51.18863,
+        "longitude": 4.42959,
+        "name": "261- Brilschans",
+        "timestamp": "2024-08-04T18:54:28.378000Z"
+      },
+      {
+        "empty_slots": 28,
+        "extra": {
+          "address": "Hoogveld",
+          "status": "OPN",
+          "uid": 262
+        },
+        "free_bikes": 8,
+        "id": "d6fe165a324daf98c9625789ce0cf58e",
+        "latitude": 51.18932,
+        "longitude": 4.43561,
+        "name": "262- Hoogveld",
+        "timestamp": "2024-08-04T18:54:28.381000Z"
+      },
+      {
+        "empty_slots": 24,
+        "extra": {
+          "address": "Fruithoflaan - Jos Ratinckxstraat",
+          "status": "OPN",
+          "uid": 263
+        },
+        "free_bikes": 10,
+        "id": "4ce87cb0d765acc411d976d945afbf84",
+        "latitude": 51.18453,
+        "longitude": 4.44104,
+        "name": "263- Fruithoflaan 2",
+        "timestamp": "2024-08-04T18:54:28.385000Z"
+      },
+      {
+        "empty_slots": 19,
+        "extra": {
+          "address": "Filip Williotstraat",
+          "status": "OPN",
+          "uid": 264
+        },
+        "free_bikes": 17,
+        "id": "9f789cb8f373fdbb01a13623c43bb8fa",
+        "latitude": 51.18765,
+        "longitude": 4.4351,
+        "name": "264- Filip Williotstraat",
+        "timestamp": "2024-08-04T18:54:28.388000Z"
+      },
+      {
+        "empty_slots": 0,
+        "extra": {
+          "address": "Pulhoflaan",
+          "status": "OPN",
+          "uid": 265
+        },
+        "free_bikes": 28,
+        "id": "fe4d31fb6877d2f85733a7a583393788",
+        "latitude": 51.18514,
+        "longitude": 4.43204,
+        "name": "265- Pulhof",
+        "timestamp": "2024-08-04T18:54:28.393000Z"
+      },
+      {
+        "empty_slots": 17,
+        "extra": {
+          "address": "Fruithoflaan - Sint-Theresiastraat",
+          "status": "OPN",
+          "uid": 266
+        },
+        "free_bikes": 18,
+        "id": "a4068718264718d3a30589f25d014e5c",
+        "latitude": 51.18076,
+        "longitude": 4.43471,
+        "name": "266- Fruithoflaan 1",
+        "timestamp": "2024-08-04T18:54:28.396000Z"
+      },
+      {
+        "empty_slots": 18,
+        "extra": {
+          "address": "Prins Leopoldstraat",
+          "status": "OPN",
+          "uid": 267
+        },
+        "free_bikes": 9,
+        "id": "f0e3685941113964dff2b0bb658a6a90",
+        "latitude": 51.18589,
+        "longitude": 4.42338,
+        "name": "267- Leopold",
+        "timestamp": "2024-08-04T18:54:28.404000Z"
+      },
+      {
+        "empty_slots": 21,
+        "extra": {
+          "address": "Lindendreef",
+          "status": "OPN",
+          "uid": 268
+        },
+        "free_bikes": 15,
+        "id": "81304c323bd15611c59874af1fa0522b",
+        "latitude": 51.18296,
+        "longitude": 4.41849,
+        "name": "268- ZNA Middelheim",
+        "timestamp": "2024-08-04T18:54:28.409000Z"
+      },
+      {
+        "empty_slots": 19,
+        "extra": {
+          "address": "Elisabethlaan",
+          "status": "OPN",
+          "uid": 269
+        },
+        "free_bikes": 10,
+        "id": "9d2e57320ca151e15eab08464e148bb5",
+        "latitude": 51.18309,
+        "longitude": 4.42431,
+        "name": "269- Middelheim",
+        "timestamp": "2024-08-04T18:54:28.413000Z"
+      },
+      {
+        "empty_slots": 23,
+        "extra": {
+          "address": "Eglantierlaan",
+          "status": "OPN",
+          "uid": 270
+        },
+        "free_bikes": 11,
+        "id": "6671c205995d3ab44ec15081850c63cd",
+        "latitude": 51.18645,
+        "longitude": 4.40427,
+        "name": "270- Dikke Mee",
+        "timestamp": "2024-08-04T18:54:28.416000Z"
+      },
+      {
+        "empty_slots": 36,
+        "extra": {
+          "address": "Beukenlaan",
+          "status": "OPN",
+          "uid": 271
+        },
+        "free_bikes": 0,
+        "id": "b8f93e07534b7f0cd62b3462a09c6b70",
+        "latitude": 51.18069,
+        "longitude": 4.40899,
+        "name": "271- Middelheimmuseum",
+        "timestamp": "2024-08-04T18:54:28.421000Z"
+      },
+      {
+        "empty_slots": 19,
+        "extra": {
+          "address": "Groenenborgerlaan",
+          "status": "OPN",
+          "uid": 272
+        },
+        "free_bikes": 11,
+        "id": "125437e303065a8c16da8550cc89ff69",
+        "latitude": 51.17786,
+        "longitude": 4.42165,
+        "name": "272- Groenenborger",
+        "timestamp": "2024-08-04T18:54:28.426000Z"
+      },
+      {
+        "empty_slots": 30,
+        "extra": {
+          "address": "Oosterveldlaan",
+          "status": "OPN",
+          "uid": 273
+        },
+        "free_bikes": 6,
+        "id": "46d3e7f3e0e1876998a2f97d06395a6e",
+        "latitude": 51.17582,
+        "longitude": 4.41283,
+        "name": "273- Campus Groenenborger",
+        "timestamp": "2024-08-04T18:54:28.433000Z"
+      },
+      {
+        "empty_slots": 14,
+        "extra": {
+          "address": "Bist",
+          "status": "OPN",
+          "uid": 274
+        },
+        "free_bikes": 16,
+        "id": "b24406132903a177ba5c15dba754767e",
+        "latitude": 51.17039,
+        "longitude": 4.39485,
+        "name": "274- De Bist",
+        "timestamp": "2024-08-04T18:54:28.444000Z"
+      },
+      {
+        "empty_slots": 32,
+        "extra": {
+          "address": "Groenenborgerlaan 17",
+          "status": "OPN",
+          "uid": 275
+        },
+        "free_bikes": 4,
+        "id": "77eced5b137d690ed0fec1f83ff2e77c",
+        "latitude": 51.17437,
+        "longitude": 4.40334,
+        "name": "275- Sneeuwbes",
+        "timestamp": "2024-08-04T18:54:28.453000Z"
+      },
+      {
+        "empty_slots": 5,
+        "extra": {
+          "address": "Kruishofstraat",
+          "status": "OPN",
+          "uid": 276
+        },
+        "free_bikes": 31,
+        "id": "85ee0622640af9eef2620ec6f227ba20",
+        "latitude": 51.18351,
+        "longitude": 4.39388,
+        "name": "276- Corbusier",
+        "timestamp": "2024-08-04T18:54:28.457000Z"
+      },
+      {
+        "empty_slots": 31,
+        "extra": {
+          "address": "Ahornenlaan ",
+          "status": "OPN",
+          "uid": 277
+        },
+        "free_bikes": 4,
+        "id": "ac6581f6edc582bde54f6e8ef60d9a0b",
+        "latitude": 51.17708,
+        "longitude": 4.39973,
+        "name": "277- Ahornen",
+        "timestamp": "2024-08-04T18:54:28.461000Z"
+      },
+      {
+        "empty_slots": 22,
+        "extra": {
+          "address": "Oversneslaan",
+          "status": "OPN",
+          "uid": 278
+        },
+        "free_bikes": 13,
+        "id": "36ba2d8b108238b02f9b4e1a0e694b26",
+        "latitude": 51.16533,
+        "longitude": 4.39394,
+        "name": "278- Oversnes",
+        "timestamp": "2024-08-04T18:54:28.468000Z"
+      },
+      {
+        "empty_slots": 30,
+        "extra": {
+          "address": "Doornstraat",
+          "status": "OPN",
+          "uid": 279
+        },
+        "free_bikes": 6,
+        "id": "621c71eb492fbdb89d11ec2d589bc40c",
+        "latitude": 51.16868,
+        "longitude": 4.39438,
+        "name": "279- Ieperman",
+        "timestamp": "2024-08-04T18:54:28.476000Z"
+      },
+      {
+        "empty_slots": 32,
+        "extra": {
+          "address": "Bosheidelaan",
+          "status": "OPN",
+          "uid": 280
+        },
+        "free_bikes": 4,
+        "id": "19bf0dc41e363f1ab30da6d95b9c63dc",
+        "latitude": 51.17672,
+        "longitude": 4.38242,
+        "name": "280- Marmotteke",
+        "timestamp": "2024-08-04T18:54:28.491000Z"
+      },
+      {
+        "empty_slots": 25,
+        "extra": {
+          "address": "Hof van Tichelen",
+          "status": "OPN",
+          "uid": 281
+        },
+        "free_bikes": 11,
+        "id": "efef38d0004a5a24d903d5d89d004700",
+        "latitude": 51.18248,
+        "longitude": 4.3854,
+        "name": "281- Hof van Tichelen",
+        "timestamp": "2024-08-04T18:54:28.500000Z"
+      },
+      {
+        "empty_slots": 24,
+        "extra": {
+          "address": "Letterkundestraat 61",
+          "status": "OPN",
+          "uid": 282
+        },
+        "free_bikes": 11,
+        "id": "2e0b15174b33ee3bffe4f69d56102aa1",
+        "latitude": 51.18023,
+        "longitude": 4.38087,
+        "name": "282- De Letter",
+        "timestamp": "2024-08-04T18:54:28.516000Z"
+      },
+      {
+        "empty_slots": 26,
+        "extra": {
+          "address": "Hollebeekstraat",
+          "status": "OPN",
+          "uid": 283
+        },
+        "free_bikes": 10,
+        "id": "dda7ca37a10dcc95b98438fd21d3ebcb",
+        "latitude": 51.18167,
+        "longitude": 4.37203,
+        "name": "283- Hollebeek",
+        "timestamp": "2024-08-04T18:54:28.521000Z"
+      },
+      {
+        "empty_slots": 27,
+        "extra": {
+          "address": "Steynsstraat",
+          "status": "OPN",
+          "uid": 284
+        },
+        "free_bikes": 9,
+        "id": "a3fc987b920fb9b990852081961577af",
+        "latitude": 51.18323,
+        "longitude": 4.36413,
+        "name": "284- Steynsstraat",
+        "timestamp": "2024-08-04T18:54:28.524000Z"
+      },
+      {
+        "empty_slots": 24,
+        "extra": {
+          "address": "Commandant Weynsstraat",
+          "status": "OPN",
+          "uid": 285
+        },
+        "free_bikes": 3,
+        "id": "ac611a78c5db38cea7ab65867af6ee0f",
+        "latitude": 51.18379,
+        "longitude": 4.35296,
+        "name": "285- Hoge Beuken",
+        "timestamp": "2024-08-04T18:54:28.536000Z"
+      },
+      {
+        "empty_slots": 18,
+        "extra": {
+          "address": "Berkenrodelei",
+          "status": "OPN",
+          "uid": 286
+        },
+        "free_bikes": 18,
+        "id": "bfb2e9074dd0d1a7241a9cbc457247df",
+        "latitude": 51.18253,
+        "longitude": 4.34811,
+        "name": "286- Station Hoboken/Polderstad",
+        "timestamp": "2024-08-04T18:54:28.546000Z"
+      },
+      {
+        "empty_slots": 23,
+        "extra": {
+          "address": "Berkenrodelei",
+          "status": "OPN",
+          "uid": 287
+        },
+        "free_bikes": 13,
+        "id": "9a900c0be6ac8f1d8540f8a7749fef27",
+        "latitude": 51.17774,
+        "longitude": 4.35,
+        "name": "287- Kioskplaats/Centrum",
+        "timestamp": "2024-08-04T18:54:28.580000Z"
+      },
+      {
+        "empty_slots": 33,
+        "extra": {
+          "address": "Draaiboomstraat",
+          "status": "OPN",
+          "uid": 288
+        },
+        "free_bikes": 1,
+        "id": "204f8e64062ab333586d227bf53d54f6",
+        "latitude": 51.17732,
+        "longitude": 4.35972,
+        "name": "288- Draaiboom",
+        "timestamp": "2024-08-04T18:54:28.618000Z"
+      },
+      {
+        "empty_slots": 27,
+        "extra": {
+          "address": "Walstraat",
+          "status": "OPN",
+          "uid": 289
+        },
+        "free_bikes": 8,
+        "id": "45079d89920a2b0f22ef112caedde9b5",
+        "latitude": 51.17355,
+        "longitude": 4.35228,
+        "name": "289- Broydenborgpark",
+        "timestamp": "2024-08-04T18:54:28.634000Z"
+      },
+      {
+        "empty_slots": 32,
+        "extra": {
+          "address": "Schoonselhoflei",
+          "status": "OPN",
+          "uid": 290
+        },
+        "free_bikes": 4,
+        "id": "b2acfe7b9e3bda03e55d231e25e1069f",
+        "latitude": 51.17621,
+        "longitude": 4.3677,
+        "name": "290- Coöperatielaan",
+        "timestamp": "2024-08-04T18:54:28.648000Z"
+      },
+      {
+        "empty_slots": 19,
+        "extra": {
+          "address": "Maurits Sabbelaan",
+          "status": "OPN",
+          "uid": 291
+        },
+        "free_bikes": 16,
+        "id": "835a8096e5db49b5cce6aa0ed6e6660f",
+        "latitude": 51.1885,
+        "longitude": 4.3727,
+        "name": "291- Braem blokken",
+        "timestamp": "2024-08-04T18:54:28.673000Z"
+      },
+      {
+        "empty_slots": 27,
+        "extra": {
+          "address": "Jacob le Mairestraat",
+          "status": "OPN",
+          "uid": 292
+        },
+        "free_bikes": 7,
+        "id": "ce4c272830dc2b997d0b2d59f1b8f161",
+        "latitude": 51.19081,
+        "longitude": 4.38101,
+        "name": "292- Kielpark",
+        "timestamp": "2024-08-04T18:54:28.674000Z"
+      },
+      {
+        "empty_slots": 28,
+        "extra": {
+          "address": "Edgard Casteleinstraat",
+          "status": "OPN",
+          "uid": 293
+        },
+        "free_bikes": 8,
+        "id": "3d6bd13252c152c6497a3d91fd155207",
+        "latitude": 51.18852,
+        "longitude": 4.39095,
+        "name": "293- Edgard Castelein",
+        "timestamp": "2024-08-04T18:54:28.678000Z"
+      },
+      {
+        "empty_slots": 27,
+        "extra": {
+          "address": "Eugeen Laermansstraat",
+          "status": "OPN",
+          "uid": 294
+        },
+        "free_bikes": 7,
+        "id": "6708bace5283ce2ea7dd3396b78ceffc",
+        "latitude": 51.19102,
+        "longitude": 4.37669,
+        "name": "294- Den Tir",
+        "timestamp": "2024-08-04T18:54:28.680000Z"
+      },
+      {
+        "empty_slots": 26,
+        "extra": {
+          "address": "Emiel Vloorstraat",
+          "status": "OPN",
+          "uid": 295
+        },
+        "free_bikes": 10,
+        "id": "c60acd65c9cf4c8a06eb2e501067e4e0",
+        "latitude": 51.19428,
+        "longitude": 4.37909,
+        "name": "295- Sporthal Kiel",
+        "timestamp": "2024-08-04T18:54:28.683000Z"
+      },
+      {
+        "empty_slots": 24,
+        "extra": {
+          "address": "Eric Sassenlaan",
+          "status": "OPN",
+          "uid": 296
+        },
+        "free_bikes": 6,
+        "id": "468204b91eb6fec30cb6e6ba518febf6",
+        "latitude": 51.19408,
+        "longitude": 4.39304,
+        "name": "296- Mastvest",
+        "timestamp": "2024-08-04T18:54:28.688000Z"
+      },
+      {
+        "empty_slots": 25,
+        "extra": {
+          "address": "Tentoonstellingslaan",
+          "status": "OPN",
+          "uid": 297
+        },
+        "free_bikes": 10,
+        "id": "428a83e5c596a6e07ded9b37ea7f6fab",
+        "latitude": 51.19062,
+        "longitude": 4.38893,
+        "name": "297- Tentoonstellingswijk",
+        "timestamp": "2024-08-04T18:54:28.699000Z"
+      },
+      {
+        "empty_slots": 25,
+        "extra": {
+          "address": "Valkstraat",
+          "status": "OPN",
+          "uid": 298
+        },
+        "free_bikes": 1,
+        "id": "152b68117dffea62d338d746536b71f7",
+        "latitude": 51.1719,
+        "longitude": 4.38237,
+        "name": "298- Koornbloem",
+        "timestamp": "2024-08-04T18:54:28.703000Z"
+      },
+      {
+        "empty_slots": 26,
+        "extra": {
+          "address": "C.Huysmanslaan",
+          "status": "OPN",
+          "uid": 299
+        },
+        "free_bikes": 10,
+        "id": "d07e8bd79085f1a5c480b9d0870d15cf",
+        "latitude": 51.19196,
+        "longitude": 4.39835,
+        "name": "299- Antwerp expo",
+        "timestamp": "2024-08-04T18:54:28.705000Z"
+      },
+      {
+        "empty_slots": 9,
+        "extra": {
+          "address": "Vogelzanglaan",
+          "status": "OPN",
+          "uid": 300
+        },
+        "free_bikes": 26,
+        "id": "b322e497a23711bd1aad3e8a0bb89d9c",
+        "latitude": 51.18875,
+        "longitude": 4.3977,
+        "name": "300- Wilrijksepleinen",
+        "timestamp": "2024-08-04T18:54:28.716000Z"
+      },
+      {
+        "empty_slots": 18,
+        "extra": {
+          "address": "Luchthaven ",
+          "status": "OPN",
+          "uid": 301
+        },
+        "free_bikes": 11,
+        "id": "cce9873c19abe222d616145c31dcfe21",
+        "latitude": 51.18884,
+        "longitude": 4.45039,
+        "name": "301- Luchthaven ",
+        "timestamp": "2024-08-04T18:54:28.732000Z"
+      },
+      {
+        "empty_slots": 26,
+        "extra": {
+          "address": "Rozenkrans",
+          "status": "OPN",
+          "uid": 302
+        },
+        "free_bikes": 4,
+        "id": "66efed4f054fcd95d121faebbd5a21eb",
+        "latitude": 51.17904,
+        "longitude": 4.39048,
+        "name": "302- Rozenkrans",
+        "timestamp": "2024-08-04T18:54:28.738000Z"
+      },
+      {
+        "empty_slots": 26,
+        "extra": {
+          "address": "Kambalastraat",
+          "status": "OPN",
+          "uid": 303
+        },
+        "free_bikes": 10,
+        "id": "3c915b1b99b1951ddf7d8e0d5dc2a842",
+        "latitude": 51.23793,
+        "longitude": 4.40959,
+        "name": "303-Kambala",
+        "timestamp": "2024-08-04T18:54:28.741000Z"
+      },
+      {
+        "empty_slots": 14,
+        "extra": {
+          "address": "Campiniastraat",
+          "status": "OPN",
+          "uid": 304
+        },
+        "free_bikes": 20,
+        "id": "1b69087883141a40de3c3bfdefeac237",
+        "latitude": 51.24007,
+        "longitude": 4.4338,
+        "name": "304 - Campinia",
+        "timestamp": "2024-08-04T18:54:28.744000Z"
+      },
+      {
+        "empty_slots": 33,
+        "extra": {
+          "address": "Ter Nieuwerbrugge",
+          "status": "OPN",
+          "uid": 305
+        },
+        "free_bikes": 3,
+        "id": "f9168158909909ec71c2acd2f2d3709a",
+        "latitude": 51.19131,
+        "longitude": 4.4435,
+        "name": "305 - Ter Nieuwerbrugge",
+        "timestamp": "2024-08-04T18:54:28.747000Z"
+      },
+      {
+        "empty_slots": 14,
+        "extra": {
+          "address": "Baron Sadoinestraat",
+          "status": "OPN",
+          "uid": 307
+        },
+        "free_bikes": 20,
+        "id": "38daa96efdde0b7bd3a8d48a046d0674",
+        "latitude": 51.17206,
+        "longitude": 4.33825,
+        "name": "307 - Baron Sadoin",
+        "timestamp": "2024-08-04T18:54:28.758000Z"
+      },
+      {
+        "empty_slots": 23,
+        "extra": {
+          "address": "Majoor Maelfaitplein",
+          "status": "OPN",
+          "uid": 308
+        },
+        "free_bikes": 12,
+        "id": "f60bd3bf669c655d956a3c2f7381c98c",
+        "latitude": 51.17107,
+        "longitude": 4.36717,
+        "name": "308 - KDG Campus Hoboken",
+        "timestamp": "2024-08-04T18:54:28.769000Z"
+      },
+      {
+        "empty_slots": 35,
+        "extra": {
+          "address": "Paul Henri Spaaklaan",
+          "status": "OPN",
+          "uid": 309
+        },
+        "free_bikes": 1,
+        "id": "5c805ff364bfa86799de97c352c48d06",
+        "latitude": 51.17089,
+        "longitude": 4.3496,
+        "name": "309 - De Torekens",
+        "timestamp": "2024-08-04T18:54:28.776000Z"
+      },
+      {
+        "empty_slots": 27,
+        "extra": {
+          "address": "Krijgsbaan",
+          "status": "OPN",
+          "uid": 310
+        },
+        "free_bikes": 8,
+        "id": "065cef555be618888cc9987516bfe99f",
+        "latitude": 51.16719,
+        "longitude": 4.35356,
+        "name": "310 - Sporthal Sorghvliedt",
+        "timestamp": "2024-08-04T18:54:28.778000Z"
+      },
+      {
+        "empty_slots": 33,
+        "extra": {
+          "address": "Cockerillplaats",
+          "status": "OPN",
+          "uid": 311
+        },
+        "free_bikes": 2,
+        "id": "63c6c42e264d3e80f120e8c6211baa1d",
+        "latitude": 51.17455,
+        "longitude": 4.34423,
+        "name": "311 - Cockerillhof",
+        "timestamp": "2024-08-04T18:54:28.792000Z"
+      },
+      {
+        "empty_slots": 20,
+        "extra": {
+          "address": "Graspolderlaan",
+          "status": "OPN",
+          "uid": 312
+        },
+        "free_bikes": 10,
+        "id": "4aae273c7c3b0b54e6487ad801ae3b5e",
+        "latitude": 51.18474,
+        "longitude": 4.34251,
+        "name": "312 - Graspolder",
+        "timestamp": "2024-08-04T18:54:28.798000Z"
+      },
+      {
+        "empty_slots": 17,
+        "extra": {
+          "address": "Constant Jorislaan",
+          "status": "OPN",
+          "uid": 313
+        },
+        "free_bikes": 17,
+        "id": "5c038aabd16839dc3a8bb25cf636f7fa",
+        "latitude": 51.20051,
+        "longitude": 4.47024,
+        "name": "313 - Eksterlaar",
+        "timestamp": "2024-08-04T18:54:28.804000Z"
+      },
+      {
+        "empty_slots": 27,
+        "extra": {
+          "address": "Sint-Bernardsesteenweg",
+          "status": "OPN",
+          "uid": 314
+        },
+        "free_bikes": 8,
+        "id": "5982204a7ce11d9dcf4be892b2d963a9",
+        "latitude": 51.1691,
+        "longitude": 4.36328,
+        "name": "314 - Schoonselhof",
+        "timestamp": "2024-08-04T18:54:28.805000Z"
+      },
+      {
+        "empty_slots": 28,
+        "extra": {
+          "address": "Dokter Emiel Van Dammestraat",
+          "status": "OPN",
+          "uid": 316
+        },
+        "free_bikes": 8,
+        "id": "00be2a1d4c88a8b85e8ab5ae2ddfeaa5",
+        "latitude": 51.18174,
+        "longitude": 4.35805,
+        "name": "316 - D.E. Van Damme",
+        "timestamp": "2024-08-04T18:54:28.820000Z"
+      },
+      {
+        "empty_slots": 15,
+        "extra": {
+          "address": "Sluitberg",
+          "status": "OPN",
+          "uid": 317
+        },
+        "free_bikes": 9,
+        "id": "aae19e5af4a28c05d3ed3ad294f7da7e",
+        "latitude": 51.25207,
+        "longitude": 4.43311,
+        "name": "317 - Distelhoek",
+        "timestamp": "2024-08-04T18:54:28.824000Z"
+      },
+      {
+        "empty_slots": 25,
+        "extra": {
+          "address": "Schaliemolenstraat",
+          "status": "OPN",
+          "uid": 319
+        },
+        "free_bikes": 2,
+        "id": "2862be4fc377115e12cd305373f4b059",
+        "latitude": 51.17284,
+        "longitude": 4.40517,
+        "name": "319 - Schaliemolen",
+        "timestamp": "2024-08-04T18:54:28.836000Z"
+      },
+      {
+        "empty_slots": 23,
+        "extra": {
+          "address": "Den Brem",
+          "status": "OPN",
+          "uid": 320
+        },
+        "free_bikes": 13,
+        "id": "d7e4ab47fa3274e89cbcc52b1d147646",
+        "latitude": 51.17406,
+        "longitude": 4.37563,
+        "name": "320 - Den Brem",
+        "timestamp": "2024-08-04T18:54:28.840000Z"
+      },
+      {
+        "empty_slots": 23,
+        "extra": {
+          "address": "Monnikenplein",
+          "status": "OPN",
+          "uid": 321
+        },
+        "free_bikes": 13,
+        "id": "828841632d36eb7b6078c89e29d7c309",
+        "latitude": 51.17508,
+        "longitude": 4.43003,
+        "name": "321 - Monnikenplein",
+        "timestamp": "2024-08-04T18:54:28.848000Z"
+      },
+      {
+        "empty_slots": 19,
+        "extra": {
+          "address": "Malisgoed",
+          "status": "OPN",
+          "uid": 322
+        },
+        "free_bikes": 5,
+        "id": "3f490431fc832258e55eb48f6a20a79a",
+        "latitude": 51.16695,
+        "longitude": 4.38213,
+        "name": "322 - Malisgoed",
+        "timestamp": "2024-08-04T18:54:28.868000Z"
+      },
+      {
+        "empty_slots": 27,
+        "extra": {
+          "address": "Oosterveldlaan",
+          "status": "OPN",
+          "uid": 323
+        },
+        "free_bikes": 8,
+        "id": "1ee31ae13b925f21c18fe2006b202f5e",
+        "latitude": 51.17535,
+        "longitude": 4.41892,
+        "name": "323 - Sint-Augustinus",
+        "timestamp": "2024-08-04T18:54:28.872000Z"
+      },
+      {
+        "empty_slots": 17,
+        "extra": {
+          "address": "Dordrechtlaan",
+          "status": "OPN",
+          "uid": 324
+        },
+        "free_bikes": 6,
+        "id": "899205df37c5282a70f1caf2d9a2ef83",
+        "latitude": 51.2043,
+        "longitude": 4.46131,
+        "name": "324 - Dordrechlaan",
+        "timestamp": "2024-08-04T18:54:28.888000Z"
+      },
+      {
+        "empty_slots": 25,
+        "extra": {
+          "address": "Paul Vekemanslaan",
+          "status": "OPN",
+          "uid": 325
+        },
+        "free_bikes": 3,
+        "id": "511d48adf36a77afc0bb56c50f5867d4",
+        "latitude": 51.17488,
+        "longitude": 4.35993,
+        "name": "325 - Paul Vekemans",
+        "timestamp": "2024-08-04T18:54:28.896000Z"
+      },
+      {
+        "empty_slots": 29,
+        "extra": {
+          "address": "Krugerbrug tov Lageweg 342",
+          "status": "OPN",
+          "uid": 326
+        },
+        "free_bikes": 7,
+        "id": "15a73b415d7e3c56b529d81c52a367da",
+        "latitude": 51.18744,
+        "longitude": 4.36347,
+        "name": "326 - Krugerbrug",
+        "timestamp": "2024-08-04T18:54:28.902000Z"
+      },
+      {
+        "empty_slots": 22,
+        "extra": {
+          "address": "Ridderveld",
+          "status": "OPN",
+          "uid": 327
+        },
+        "free_bikes": 8,
+        "id": "8a65354e4a5c263918b5f4ea75b1aa77",
+        "latitude": 51.17721,
+        "longitude": 4.37488,
+        "name": "327 - Ridderveld",
+        "timestamp": "2024-08-04T18:54:28.905000Z"
+      },
+      {
+        "empty_slots": 14,
+        "extra": {
+          "address": "Schotensesteenweg",
+          "status": "OPN",
+          "uid": 328
+        },
+        "free_bikes": 21,
+        "id": "c36a3ff3328f05d2995f61047dc109ae",
+        "latitude": 51.21915,
+        "longitude": 4.47506,
+        "name": "328 - Oude Terminus",
+        "timestamp": "2024-08-04T18:54:28.924000Z"
+      },
+      {
+        "empty_slots": 16,
+        "extra": {
+          "address": "Prosper de Wittestraat",
+          "status": "OPN",
+          "uid": 329
+        },
+        "free_bikes": 11,
+        "id": "debbcc223164a482546d5e7c9d672586",
+        "latitude": 51.2261,
+        "longitude": 4.47064,
+        "name": "329 - Prosper de Wit",
+        "timestamp": "2024-08-04T18:54:28.925000Z"
+      },
+      {
+        "empty_slots": 30,
+        "extra": {
+          "address": "Meerlenhoflaan",
+          "status": "OPN",
+          "uid": 330
+        },
+        "free_bikes": 6,
+        "id": "5d46f188be4295466ec7ff02b9f1bb01",
+        "latitude": 51.17234,
+        "longitude": 4.35626,
+        "name": "330 - Meerlenhof",
+        "timestamp": "2024-08-04T18:54:28.940000Z"
+      },
+      {
+        "empty_slots": 26,
+        "extra": {
+          "address": "Zaatlaan",
+          "status": "OPN",
+          "uid": 331
+        },
+        "free_bikes": 9,
+        "id": "720b5226e95ede4ce30fe8a7974c681c",
+        "latitude": 51.1754,
+        "longitude": 4.33873,
+        "name": "331 - Zaatlaan",
+        "timestamp": "2024-08-04T18:54:28.942000Z"
+      },
+      {
+        "empty_slots": 29,
+        "extra": {
+          "address": "Michel Geysemansstraat",
+          "status": "OPN",
+          "uid": 332
+        },
+        "free_bikes": 7,
+        "id": "90eaa6d7da61bfb3f9fb6cc6dbd187fb",
+        "latitude": 51.16751,
+        "longitude": 4.38542,
+        "name": "332 - Valkstraat",
+        "timestamp": "2024-08-04T18:54:28.952000Z"
+      },
+      {
+        "empty_slots": 17,
+        "extra": {
+          "address": "August van de Wielelei",
+          "status": "OPN",
+          "uid": 334
+        },
+        "free_bikes": 18,
+        "id": "8fa269470fcc3d90cd08cb2939f82457",
+        "latitude": 51.21979,
+        "longitude": 4.48317,
+        "name": "334 - Den Haas",
+        "timestamp": "2024-08-04T18:54:28.972000Z"
+      },
+      {
+        "empty_slots": 22,
+        "extra": {
+          "address": "Speelpleinstraat / Terlindenhofstraat",
+          "status": "OPN",
+          "uid": 335
+        },
+        "free_bikes": 14,
+        "id": "bb0bfbbf9c2e26ddf1ef8ca4e8fb247d",
+        "latitude": 51.24822,
+        "longitude": 4.44424,
+        "name": "335- Speelplein",
+        "timestamp": "2024-08-04T18:54:28.973000Z"
+      },
+      {
+        "empty_slots": 31,
+        "extra": {
+          "address": "Sneeuwbeslaan/Laarstraat",
+          "status": "OPN",
+          "uid": 336
+        },
+        "free_bikes": 5,
+        "id": "3a70adcc9ba2b83b665c8fcdc41a3e8d",
+        "latitude": 51.17571,
+        "longitude": 4.39622,
+        "name": "336 -Sneeuwbeslaan",
+        "timestamp": "2024-08-04T18:54:28.977000Z"
+      },
+      {
+        "empty_slots": 12,
+        "extra": {
+          "address": "Verenigde Natieslaan",
+          "status": "OPN",
+          "uid": 337
+        },
+        "free_bikes": 12,
+        "id": "2e9ef8f7333ca5fb7b1f33a90ef32176",
+        "latitude": 51.16379,
+        "longitude": 4.35336,
+        "name": "337 - Verenigde Naties",
+        "timestamp": "2024-08-04T18:54:28.984000Z"
+      },
+      {
+        "empty_slots": 24,
+        "extra": {
+          "address": "Dokter Donnyplein",
+          "status": "OPN",
+          "uid": 340
+        },
+        "free_bikes": 12,
+        "id": "661195665ea44edfe9e7564551ccebf3",
+        "latitude": 51.16813,
+        "longitude": 4.40497,
+        "name": "340 - Dokter Donny",
+        "timestamp": "2024-08-04T18:54:28.996000Z"
+      },
+      {
+        "empty_slots": 28,
+        "extra": {
+          "address": "Jos Smolderenstraat",
+          "status": "OPN",
+          "uid": 342
+        },
+        "free_bikes": 4,
+        "id": "b96cfdabefc1973f6cab7ec9a60da333",
+        "latitude": 51.20626,
+        "longitude": 4.38345,
+        "name": "342 - Nieuw Zuid",
+        "timestamp": "2024-08-04T18:54:29.004000Z"
+      },
+      {
+        "empty_slots": 12,
+        "extra": {
+          "address": "Blancefloer - P&R Linkeroever",
+          "status": "OPN",
+          "uid": 180
+        },
+        "free_bikes": 23,
+        "id": "3abb1721b2af6ee54eef3a71fff6df0c",
+        "latitude": 51.21933,
+        "longitude": 4.34921,
+        "name": "180 - P&R LO 1",
+        "timestamp": "2024-08-04T18:54:27.894000Z"
+      },
+      {
+        "empty_slots": 14,
+        "extra": {
+          "address": "Thonetlaan - Veerpont",
+          "status": "OPN",
+          "uid": 183
+        },
+        "free_bikes": 20,
+        "id": "4e37f39ebcf6d2667f805d884ebc0139",
+        "latitude": 51.22495,
+        "longitude": 4.39009,
+        "name": "183 - Veer LO",
+        "timestamp": "2024-08-04T18:54:27.900000Z"
+      },
+      {
+        "empty_slots": 21,
+        "extra": {
+          "address": "Minderbroederrui n° 46",
+          "status": "OPN",
+          "uid": 56
+        },
+        "free_bikes": 8,
+        "id": "ee9529823298c4ffb1fcc466dca47d6e",
+        "latitude": 51.22219,
+        "longitude": 4.40459,
+        "name": "056- Minderbroedersrui",
+        "timestamp": "2024-08-04T18:54:26.741000Z"
+      },
+      {
+        "empty_slots": 27,
+        "extra": {
+          "address": "Blancefloerlaan t.o.v. Mediahuis (overkant)",
+          "status": "OPN",
+          "uid": 182
+        },
+        "free_bikes": 9,
+        "id": "b11c01405decdaf5e9f35c810b5699ed",
+        "latitude": 51.21929,
+        "longitude": 4.36003,
+        "name": "182 - Mediahuis",
+        "timestamp": "2024-08-04T18:54:27.897000Z"
+      },
+      {
+        "empty_slots": 23,
+        "extra": {
+          "address": "Borsbeekbrug tegenover masterbuilding politie",
+          "status": "OPN",
+          "uid": 157
+        },
+        "free_bikes": 10,
+        "id": "0547d3801b3801ccdc2ad3ffee01d3f5",
+        "latitude": 51.20145,
+        "longitude": 4.4354,
+        "name": "157- Borsbeeksebrug",
+        "timestamp": "2024-08-04T18:54:27.668000Z"
+      },
+      {
+        "empty_slots": 15,
+        "extra": {
+          "address": "Uitbreidingsstraat 184",
+          "status": "OPN",
+          "uid": 103
+        },
+        "free_bikes": 17,
+        "id": "80aaae43d2c56ab69f1a55fc784ff327",
+        "latitude": 51.19256,
+        "longitude": 4.42146,
+        "name": "103- Oude Kerk Berchem",
+        "timestamp": "2024-08-04T18:54:27.154000Z"
+      },
+      {
+        "empty_slots": 34,
+        "extra": {
+          "address": "Waalsekaai ",
+          "status": "OPN",
+          "uid": 34
+        },
+        "free_bikes": 1,
+        "id": "c37f331332ceb1fa09d8394f74796efb",
+        "latitude": 51.21101,
+        "longitude": 4.39073,
+        "name": "034- M HKA",
+        "timestamp": "2024-08-04T18:54:26.557000Z"
+      },
+      {
+        "empty_slots": 30,
+        "extra": {
+          "address": "Vlaamsekaai",
+          "status": "OPN",
+          "uid": 75
+        },
+        "free_bikes": 5,
+        "id": "cb05817dcd845e7597e20a43cd3cb693",
+        "latitude": 51.21031,
+        "longitude": 4.3913,
+        "name": "075- Vlaamsekaai",
+        "timestamp": "2024-08-04T18:54:26.932000Z"
+      },
+      {
+        "empty_slots": 14,
+        "extra": {
+          "address": "Van Eycklei ro n° 48",
+          "status": "OPN",
+          "uid": 116
+        },
+        "free_bikes": 4,
+        "id": "8668428a462e90f518525ec26e1c9307",
+        "latitude": 51.2101,
+        "longitude": 4.41722,
+        "name": "116- Loosplaats",
+        "timestamp": "2024-08-04T18:54:27.267000Z"
+      },
+      {
+        "empty_slots": 19,
+        "extra": {
+          "address": "Bermstraat",
+          "status": "OPN",
+          "uid": 206
+        },
+        "free_bikes": 14,
+        "id": "efbeb9ce519debee5034d3b2c9f07df9",
+        "latitude": 51.2445,
+        "longitude": 4.42309,
+        "name": "206- Station Luchtbal",
+        "timestamp": "2024-08-04T18:54:27.935000Z"
+      },
+      {
+        "empty_slots": 19,
+        "extra": {
+          "address": "Van Eycklei/Edelinckstraat 24 ",
+          "status": "OPN",
+          "uid": 41
+        },
+        "free_bikes": 7,
+        "id": "e1961b4cc4b7c7da8b3bc6732607268f",
+        "latitude": 51.2108,
+        "longitude": 4.41161,
+        "name": "041- Van Eyck",
+        "timestamp": "2024-08-04T18:54:26.614000Z"
+      },
       {
         "empty_slots": 20,
         "extra": {

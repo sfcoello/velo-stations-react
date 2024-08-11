@@ -1,22 +1,8 @@
-import { CssBaselineProps, Paper, styled } from "@mui/material";
-import { CSSProperties } from "react";
-// export default makeStyles(() => ({
-//   pointer: {
-//     cursor: 'pointer',
-//   },
-//   mapcontainer: {
-//     height: '85vh',
-//     width: '100%',  
-//   },
-//   markerContariner: {
-//     position: 'absolute', 
-//     transform: 'translate(-50%, -50%)', 
-//     zIndex: 1, '&:hover': { zIndex: 2 },
-//   }
-// }));
+import {Paper, styled } from "@mui/material";
+
 
 export const MapContainerSyled = styled('div')(({ theme }) => ({
-    height: '80vh',
+    height: '75vh',
      width: '100%',
   }));
 

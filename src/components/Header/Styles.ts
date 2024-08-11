@@ -1,6 +1,7 @@
-import { alpha, styled, Typography } from "@mui/material";
+import { alpha, colors, createTheme, styled, Typography } from "@mui/material";
 import InputBase from '@mui/material/InputBase';
 import Toolbar from "@mui/material/Toolbar";
+
 
 export const TitleVelo = styled(Typography)(({ theme }) => ({
     display: 'none',
@@ -10,7 +11,8 @@ export const TitleVelo = styled(Typography)(({ theme }) => ({
   }));
 
 export const ToolBarVelo = styled(Toolbar)(({ theme }) => ({
-    display: 'flex', justifyContent: 'space-between',
+    display: 'flex', 
+    justifyContent: 'space-between',
   }));
 
 export const Search = styled('div')(({ theme }) => ({
@@ -54,3 +56,16 @@ export const Search = styled('div')(({ theme }) => ({
       },
     },
   }));
+  
+
+  //TODO THEME PROVIDER
+  export const theme = createTheme({
+    typography: {
+      fontFamily: '"Roboto", "Helvetica", "Arial", sans-serif', 
+    },
+    palette: {
+      primary: {
+        main: '#b71c1c', 
+      },
+    },
+  });

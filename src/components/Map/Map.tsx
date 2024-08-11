@@ -5,15 +5,16 @@ import { useStations } from '../../context/StationsContext';
 import Marker from '../Marker/Marker';
 import LocationOnOutlinedIcon from '@mui/icons-material/LocationOnOutlined';
 import { Station } from '../../veloAntwerpen';
-import { useChildClicked } from '../../context/ChildClickedContext';
 import { Paper, Typography } from '@mui/material';
 import PedalBikeOutlinedIcon from '@mui/icons-material/PedalBikeOutlined';
+import { useSelectedStation } from '../../context/SelectedStationContext';
+import { LockClockOutlined } from '@mui/icons-material';
 
 
 const Map: React.FC = () => {
 
   const stations = useStations();
-  const {setChildClicked}  = useChildClicked();
+  const {setSelectedStation}  = useSelectedStation();
 
 
   const [coordinates, setCoordinates] = useState({
@@ -47,7 +48,7 @@ const Map: React.FC = () => {
         margin={[50, 50, 50, 50]}
         options={{}}
         onChange={handleMapChange}
-        onChildClick={setChildClicked}
+        onChildClick={setSelectedStation}
       >
         {visibleStations.map(station => (
           <Marker
@@ -56,7 +57,6 @@ const Map: React.FC = () => {
             lng={station.longitude}
             text={station.name}
           >
-            {/* <LocationOnOutlinedIcon color='primary' fontSize='large' /> */}
         <PaperStyled elevation={3}>
       
         <PedalBikeOutlinedIcon color='secondary' fontSize='small'/>
